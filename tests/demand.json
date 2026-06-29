@@ -1,0 +1,386 @@
+{
+    "demand_research": {
+        "refinements": {
+            "availability": [
+                "Include Out of Stock"
+            ],
+            "brands": [
+                "turelar",
+                "Ninja",
+                "Borosil",
+                "Salt",
+                "NutriBullet",
+                "HOMEBASIC",
+                "BOSS",
+                "PHILIPS"
+            ],
+            "capacity": [
+                "Up to 449 mL",
+                "450 to 849 mL",
+                "850 to 1,499 mL",
+                "1,500 mL & above"
+            ],
+            "colour": [
+                "Apply the filter Black to narrow results",
+                "Apply the filter Grey to narrow results",
+                "Apply the filter White to narrow results",
+                "Apply the filter Beige to narrow results",
+                "Apply the filter Red to narrow results",
+                "Apply the filter Pink to narrow results",
+                "Apply the filter Yellow to narrow results",
+                "Apply the filter Green to narrow results",
+                "Apply the filter Turquoise to narrow results",
+                "Apply the filter Blue to narrow results",
+                "Apply the filter Purple to narrow results",
+                "Apply the filter Silver to narrow results",
+                "Apply the filter Multicolour to narrow results",
+                "Apply the filter Transparent to narrow results"
+            ],
+            "controls_type": [
+                "Knob",
+                "Push Button",
+                "Touch"
+            ],
+            "customer_reviews": [
+                "4 Stars"
+            ],
+            "deals_discounts": [
+                "All Discounts",
+                "Buy More, Save More",
+                "Coupons",
+                "Today's Deals"
+            ],
+            "delivery_day": [
+                "Get It Today",
+                "Get It by Tomorrow",
+                "Get It in 2 Days"
+            ],
+            "discount": [
+                "10% Off or more",
+                "25% Off or more",
+                "35% Off or more",
+                "50% Off or more",
+                "60% Off or more",
+                "70% Off or more"
+            ],
+            "eligible_for_free_delivery": [
+                "Free Shipping"
+            ],
+            "height": [
+                "Up to 19 cm"
+            ],
+            "included_components": [
+                "Juice Container",
+                "Charging Cable",
+                "Lid",
+                "Base",
+                "Blending Stick",
+                "Cup",
+                "Instruction Manual",
+                "Pour Spout",
+                "Whisk Attachment"
+            ],
+            "item_condition": [
+                "New"
+            ],
+            "length": [
+                "Up to 14 cm",
+                "15 to 24 cm"
+            ],
+            "made_for_amazon_brands": [
+                "Made for Amazon"
+            ],
+            "new_arrivals": [
+                "Last 30 days",
+                "Last 90 days"
+            ],
+            "number_of_speeds": [
+                "1",
+                "2 to 3",
+                "4 to 5",
+                "6 & above"
+            ],
+            "pay_on_delivery": [
+                "Eligible for Pay On Delivery"
+            ],
+            "power_source": [
+                "Battery Powered",
+                "Corded Electric"
+            ],
+            "price_185_19_700": [
+                "Up to \u20b9500",
+                "\u20b9500 - \u20b9900",
+                "\u20b9900 - \u20b91,800",
+                "\u20b91,800 - \u20b94,000",
+                "Over \u20b94,000"
+            ],
+            "seller": [
+                "Doveberry",
+                "M&M MART",
+                "BazaarKart \u2611",
+                "KTM Global",
+                "Abhay Traders [Better Store At Better Price]",
+                "Peach Imports",
+                "MULTINATION"
+            ],
+            "special_features": [
+                "Portable",
+                "USB Rechargeable",
+                "Lightweight",
+                "Adjustable Speed Control",
+                "Auto Shut Off",
+                "Automatic Cleaning",
+                "Compact",
+                "Cordless",
+                "Detachable Attachment",
+                "Ergonomic Handle",
+                "Heavy Duty",
+                "Multiple Speeds",
+                "Programmable",
+                "Removable Blade",
+                "Removable Glass Container",
+                "Safety Lock",
+                "Single Serve"
+            ],
+            "top_brands": [
+                "Top Brands"
+            ],
+            "uses": [
+                "Juices",
+                "Blending",
+                "Mixing",
+                "Crushing",
+                "Chopping",
+                "Coffee",
+                "Creams",
+                "Emulsifying",
+                "Grinding",
+                "Ice Crush",
+                "Protein",
+                "Pureeing",
+                "Whisking"
+            ],
+            "warranty_type": [
+                "1 Year Limited Warranty",
+                "2 Year Limited Warranty"
+            ],
+            "wattage": [
+                "Up to 149 W",
+                "150 to 299 W",
+                "300 to 449 W",
+                "450 to 549 W",
+                "550 to 699 W",
+                "700 W & above"
+            ],
+            "width": [
+                "Up to 9 cm",
+                "10 to 14 cm"
+            ]
+        },
+        "results": {
+            "amazons_choices": [
+                {
+                    "asin": "B09J2T124D",
+                    "price": 1599,
+                    "rating": 4.4,
+                    "title": "NutriPro Juicer Mixer Grinder - Smoothie Maker - 500 Watts (2 Jars & 1 Blade, Silver) - 2 Year Warranty",
+                    "reviews_count": 31700
+                }
+            ],
+            "organic": [
+                {
+                    "asin": "B0H1Q6LGH1",
+                    "price": 499,
+                    "rating": 4.5,
+                    "title": "Portable Blender Electric Juicers Fruit Mixers USB Rechargeable Smoothie Mini Personal Juicer 6 Blades 3Gears With 1500 Mah Rechargeable Battery-Smoothie Food Blender D1",
+                    "reviews_count": 132
+                },
+                {
+                    "asin": "B0H21YV2JW",
+                    "price": 299,
+                    "rating": 4,
+                    "title": "Xapiaxa Portable 450 ml Blender 6-Blade \u2013 USB Rechargeable Personal Smoothie Maker, Juicer Cup, BPA-Free Travel Mixer (Multicolor)",
+                    "reviews_count": 15
+                },
+                {
+                    "asin": "B09J2T124D",
+                    "price": 1599,
+                    "rating": 4.4,
+                    "title": "NutriPro Juicer Mixer Grinder - Smoothie Maker - 500 Watts (2 Jars & 1 Blade, Silver) - 2 Year Warranty",
+                    "reviews_count": 31700
+                },
+                {
+                    "asin": "B0F9YGHHXG",
+                    "price": 698,
+                    "rating": 3.3,
+                    "title": "Qlect Portable Blender Electric Juicers Fruit Mixers USB Rechargeable Smoothie Mini Personal Juicer 6 Blades 3Gears With 1500 Mah Rechargeable Battery-Smoothie Blender",
+                    "reviews_count": 3300
+                },
+                {
+                    "asin": "B0G4DZSXDL",
+                    "price": 799,
+                    "rating": 4.3,
+                    "title": "Portable JuicerBlender Electric Juicers Fruit Mixers USB Rechargeable Smoothie Mini Blender Personal Juicer 10 Blades 3 Gears With 1300 Mah Rechargeable Battery-Smoothie Juicer (GREEN)",
+                    "reviews_count": 6600
+                },
+                {
+                    "asin": "B0CL7KY93F",
+                    "price": 2299,
+                    "rating": 4.2,
+                    "title": "AGARO Galaxy Portable Blender for Smoothie & Milk Shakes, 450ml, USB Type C Rechargeable, 3000 mAh Battery, Mini Personal Blender for Home, Office, Gym, Travel. 126W, Stainless Steel Blade",
+                    "reviews_count": 1400
+                },
+                {
+                    "asin": "B0D3F873GH",
+                    "price": 2999,
+                    "rating": 4.6,
+                    "title": "OWNAIR Portable Blender | Smoothie & Juice Maker | 180W Blender Mixer Grinder | 5000mAh Rechargeable Portable Juicer | BPA Free 450ml High Borosilicate Glass Jar | Baby Food & Smoothie Maker",
+                    "reviews_count": 1400
+                },
+                {
+                    "asin": "B0GVNTG5YW",
+                    "price": 599,
+                    "rating": 4.2,
+                    "title": "Juicer for Home TEKCOOL Portable Blender Electric Juicers Fruit Mixers USB Rechargeable Smoothie Mini Personal Juicer 6 Blades 3Gears with 1500 Mah Rechargeable Battery-Smoothie Blender.",
+                    "reviews_count": 803
+                },
+                {
+                    "asin": "B0FNR531F9",
+                    "price": 1769,
+                    "rating": 3.5,
+                    "title": "Borosil NutriGrip Blue Portable Blender | 40W Low-Noise DC Motor | 300ml Unbreakable PC Jar | USB Rechargeable | Turbo 6 Blade Action | Smoothies, Shakes, Soft Fruit, Protein Mix | 1 Year Warranty",
+                    "reviews_count": 148
+                },
+                {
+                    "asin": "B0B3G5XZN5",
+                    "price": 2999,
+                    "rating": 4.2,
+                    "title": "InstaCuppa Stainless Steel Portable Blender for Smoothies & Juices,Mixer Juicer that Crushes Ice,Electric Shaker USB Rechargeable Battery with 4000 mAh 230 Watts Motor,500 ML Juice Maker,Black",
+                    "reviews_count": 5300
+                },
+                {
+                    "asin": "B0GXVC81S8",
+                    "price": 299,
+                    "rating": 3.2,
+                    "title": "Toy O'Fun Portable 450ml Juicer Blender, 6-Blade USB Rechargeable Personal Mixer Bottle with Built-In Jar, Smoothie & Protein Shake Maker, Multicolor (J-2)",
+                    "reviews_count": 24
+                },
+                {
+                    "asin": "B0H21N6L5L",
+                    "price": 299,
+                    "rating": 4.1,
+                    "title": "Toy O'Fun Portable 450ml Blender 6-Blade \u2013 USB Rechargeable Personal Smoothie Maker, Juicer Cup, BPA-Free Travel Mixer (Multicolor)",
+                    "reviews_count": 16
+                },
+                {
+                    "asin": "B0GZ7ZY5H6",
+                    "price": 799,
+                    "rating": 5,
+                    "title": "Portable 6-Blade Juicer Blender with built-in Jar, Juicer Mixer Bottle,Fruit Juice Machine,USB Rechargeable Personal Size Grinder for Juices, appliance for Protein&Milk Shakes (Black, 380ml)",
+                    "reviews_count": 4
+                },
+                {
+                    "asin": "B0FWY6WH7Z",
+                    "price": 5649,
+                    "rating": 4.4,
+                    "title": "Ninja Blast Portable Cordless Blender (BC151INCR) \u2013 530ml | USB-C Rechargeable | Crushes Ice & Frozen Fruit | BPA Free, Leak-Proof Travel Lid Cranberry Red",
+                    "reviews_count": 2200
+                },
+                {
+                    "asin": "B0H1Q848C9",
+                    "price": 438,
+                    "rating": 4.2,
+                    "title": "6 Blade Juicer Mixer Grinder Mini, Portable Blender for Smoothies & Juices, USB Rechargeable Bottle Juicer Blender, Smoothie Maker, Milkshake Blenders, Portable Juice Maker Bottle",
+                    "reviews_count": 1500
+                },
+                {
+                    "asin": "B0FCFLX7WD",
+                    "price": 1073.77,
+                    "rating": 3.7,
+                    "title": "Pigeon By Stovekraft Pure | Grinder Juicer Blender Smoothie Maker All-in-1 Machine | 300 Watt | 1 Jars- Multiuse Jar 500ml, 1 Sipper, 1 Cap |1 Blades|1 Year Warranty",
+                    "reviews_count": 545
+                }
+            ],
+            "paid": [
+                {
+                    "asin": "B0FWY5Y7VF",
+                    "price": 5649,
+                    "rating": 4.4,
+                    "title": "Ninja Blast Portable Cordless Blender (BC151INNV) \u2013 530ml | USB-C Rechargeable | Crushes Ice & Frozen Fruit | BPA Free, Leak-Proof Travel Lid Denim Blue",
+                    "reviews_count": 2200
+                },
+                {
+                    "asin": "B0DSF7PWG7",
+                    "price": 2299,
+                    "rating": 3.4,
+                    "title": "Amazon Basics Portable Hand Blender for Smoothies and Juices | USB Rechargeable | 6 Stainless Steel Blades | 600 ml Food Grade Jar | 1 year Warranty | 2x2000 mAh Batteries (Sage Green)",
+                    "reviews_count": 12
+                },
+                {
+                    "asin": "B07NQGVNW1",
+                    "price": 1399,
+                    "rating": 4.2,
+                    "title": "BOSS E111 Portable Hand Blender 180 Watt | Easy to Clean and Store | ISI-Marked, Grey",
+                    "reviews_count": 4924
+                },
+                {
+                    "asin": "B07NST96VP",
+                    "price": 2299,
+                    "rating": 4.2,
+                    "title": "Boss E113 275-Watt Hand Blender with Chutney and Chopper Attachments, Grey",
+                    "reviews_count": 748
+                },
+                {
+                    "asin": "B0CHP2NXXN",
+                    "price": 2125,
+                    "rating": 4.3,
+                    "title": "BOSS Stainless Steel Big Boss Portable Hand Blender | Powerful 275 W Motor | 5 Years Warranty* First In India | Variable Speed Control | Isi-Marked, Wine, 275 Watts",
+                    "reviews_count": 209
+                },
+                {
+                    "asin": "B0FBK37XLW",
+                    "price": 1760,
+                    "rating": 4.3,
+                    "title": "BOSS E112-S Portable Hand Blender 225 Watt | Chutney Jar | 2 Speed Control | 2 Years Warranty | ISI-Marked, Wine",
+                    "reviews_count": 365
+                },
+                {
+                    "asin": "B0D1BW575B",
+                    "price": 3699,
+                    "rating": 3.8,
+                    "title": "BOSS Stellar Hand Blender 1200 Watts with Chopper, Blender Jar, On to go Bottle Cap| Variable Speed & Turbo Speed Function| Anti-Splash Technology| 2 Year Warranty| Black",
+                    "reviews_count": 105
+                },
+                {
+                    "asin": "B0F9YDS9B4",
+                    "price": 798,
+                    "rating": 3.3,
+                    "title": "Qlect Portable Blender Electric Juicers Fruit Mixers USB Rechargeable Smoothie Mini Personal Juicer 16 Blades 3Gears With 1500 Mah Rechargeable Battery-Smoothie Blender",
+                    "reviews_count": 3300
+                },
+                {
+                    "asin": "B0CL7KY93F",
+                    "price": 2299,
+                    "rating": 4.2,
+                    "title": "AGARO Galaxy Portable Blender for Smoothie & Milk Shakes, 450ml, USB Type C Rechargeable, 3000 mAh Battery, Mini Personal Blender for Home, Office, Gym, Travel. 126W, Stainless Steel Blade",
+                    "reviews_count": 1400
+                },
+                {
+                    "asin": "B0GQZMGWCR",
+                    "price": 1999,
+                    "rating": 3.8,
+                    "title": "BlendLife NOVA Portable Blender | Smoothie Maker for Gym & Travel | 600ml | 12 Blades | 7.4V | Inbuilt Sipper, Handle & Filter | Convertible Lid | USB Rechargeable | BIS Certified | Made in Bharat",
+                    "reviews_count": 3600
+                },
+                {
+                    "asin": "B0DSF83G3C",
+                    "price": 1899,
+                    "rating": 3.8,
+                    "title": "Amazon Basics Portable Hand Blender for Smoothies and Juices | USB Rechargeable | 6 Stainless Steel Blades | 500 ml Food Grade Jar | 1 year Warranty | 2x2000 mAh Batteries (Grey)",
+                    "reviews_count": 4
+                }
+            ],
+            "suggested": []
+        }
+    }
+}

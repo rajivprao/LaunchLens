@@ -1,0 +1,38 @@
+{
+    "idea_context": {
+        "product_name": "Portable Cordless Mini Blender",
+        "product_type": "Consumer Product",
+        "industry": "Kitchen Appliances",
+        "market_category": "Home and Kitchen",
+        "target_customers": [
+            "Young professionals",
+            "Students",
+            "Busy households"
+        ],
+        "problem_solved": "Need for a compact, portable, and easy-to-use blender for quick meal preparations",
+        "target_market": "India",
+        "target_price_constraint": "Under \u20b92,000",
+        "search_keywords": [
+            "portable blender",
+            "cordless blender",
+            "mini blender",
+            "blender for small kitchens",
+            "blender for students",
+            "blender for busy households",
+            "blender under \u20b92,000",
+            "blender for quick meal prep",
+            "blender for smoothies",
+            "blender for protein shakes"
+        ],
+        "amazon_keywords": [
+            "portable blender",
+            "cordless mini blender",
+            "blender under 2000 rupees",
+            "blender for small kitchens",
+            "blender for quick meal prep",
+            "blender for smoothies",
+            "blender for protein shakes"
+        ],
+        "pricing_model": "One-Time Purchase"
+    }
+}

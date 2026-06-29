@@ -1,0 +1,834 @@
+{
+    "supply_research": {
+        "google_search": {
+            "ai_overview": [],
+            "questions": [
+                "Which is the best portable blender?",
+                "What is the best portable blender for traveling?",
+                "Is a portable blender worth buying?",
+                "What is a portable blender?"
+            ],
+            "organic_results": [
+                {
+                    "title": "AGARO Galaxy Portable Blender for Smoothie & Milk ...",
+                    "snippet": "Brand. AGARO \u00b7 Colour. Steel & Black \u00b7 Special Feature. Lightweight, Portable, USB Rechargeable \u00b7 Capacity. 450 Milliliters \u00b7 Product Dimensions. 25D x 7.5W x 25H ...",
+                    "source": "Amazon.in"
+                },
+                {
+                    "title": "Portable Blender Market Size | Industry Growth Report 2036",
+                    "snippet": "Portable blender market is projected to reach USD 318.2 Million by 2036, expanding at a CAGR of 6.4% from 2026 to 2036.",
+                    "source": "transparencymarketresearch.com"
+                },
+                {
+                    "title": "BlendJet\u00ae Portable Blender | The Next-Gen Blender\u00ae",
+                    "snippet": "The BlendJet 2 portable blender delivers game-changing technology that lets you make fresh smoothies, shakes, or mixed drinks wherever you go.",
+                    "source": "blendjet.in"
+                },
+                {
+                    "title": "Portable Blender Market Size, Share | Forecast Report [2034]",
+                    "snippet": "The global portable blender market to reach USD 1707.10 million by 2034, expanding at a 7.34% CAGR during the forecast period 2026-2034.",
+                    "source": "Fortune Business Insights"
+                },
+                {
+                    "title": "King Of Portable Blender in India !! Agaro - Blendlife - Blendjet ...",
+                    "snippet": "Portable Blender Showdown: Agaro vs. BlendLife vs. BlendJet vs. Local Brands \u2013 Which One Reigns Supreme in India? Looking for the best ...",
+                    "source": "YouTube \u00b7 V4 VIDEOS"
+                },
+                {
+                    "title": "Portable Blender Market Size & Share, Statistics Report 2034",
+                    "snippet": "The global portable blender market size was valued at USD 233.2 million in 2024 and is projected to grow at a CAGR of 4.9% between 2025 and 2034.",
+                    "source": "Global Market Insights Inc."
+                },
+                {
+                    "title": "Nutri-Cup Portable Blender | USB Charging",
+                    "snippet": "Blend smoothies anytime with Wonderchef Nutri-Cup portable blender\u2014USB charging, compact design, and powerful blending for fresh nutrition on the go.",
+                    "source": "Wonderchef"
+                },
+                {
+                    "title": "Watch Qlect Portable Blender For Smoothie And Juices ...",
+                    "snippet": "Watch Qlect Portable Blender For Smoothie And Juices Powerful 40 Watts Juicer Blender that Can Crush Ice on Amazon Live \u00b7 Browse all categories.",
+                    "source": "Amazon.in \u00b7 Marketing"
+                },
+                {
+                    "title": "The 4 Best Portable Blenders of 2026",
+                    "snippet": "The Beast GO Cordless is the best portable blender we've tested. It's a standout choice if you frequently use tougher, fibrous ingredients like ...",
+                    "source": "RTINGS.com"
+                },
+                {
+                    "title": "Buy Ownair Portable Blender/Juicer | Type-C Fast Charging",
+                    "snippet": "Equipped with a powerful 16500 RPM motor and six sharp stainless steel blades, this blender swiftly prepares shakes, smoothies, and even crushes ice.",
+                    "source": "OWNAIR"
+                }
+            ],
+            "immersive_products": [
+                {
+                    "title": "Lifelong Portable Juicer Blender",
+                    "price": "\u20b91,199",
+                    "category": "Popular products",
+                    "source": "Amazon.in"
+                },
+                {
+                    "title": "Ninja Blast Portable Blender Cordless 18oz. Vessel Personal Blender for Shakes & Smoothies",
+                    "price": "\u20b95,649",
+                    "rating": 4.3,
+                    "category": "Popular products",
+                    "source": "Amazon.in",
+                    "reviews": 8900
+                },
+                {
+                    "title": "InstaCuppa Portable Blender Upgraded Edition",
+                    "original_price": "Was \u20b92,999",
+                    "price": "\u20b92,299",
+                    "category": "Popular products",
+                    "source": "InstaCuppa"
+                },
+                {
+                    "title": "Borosil Nutrimate Portable Blender with Grinder",
+                    "original_price": "Was \u20b94,634",
+                    "price": "\u20b93,379",
+                    "category": "Popular products",
+                    "source": "Amazon.in"
+                },
+                {
+                    "title": "HomeBasic Portable Blender",
+                    "original_price": "72% off\u20b97,999",
+                    "price": "\u20b92,247",
+                    "category": "Popular products",
+                    "source": "Flipkart"
+                },
+                {
+                    "title": "Qlect Portable Blender Electric Juicer",
+                    "price": "\u20b9698",
+                    "category": "Popular products",
+                    "source": "Amazon.in"
+                },
+                {
+                    "title": "Wonderchef Nutri Cup Portable Blender",
+                    "original_price": "Usually \u20b91,399",
+                    "price": "\u20b91,189",
+                    "rating": 2.8,
+                    "category": "Popular products",
+                    "source": "bigbasket.com",
+                    "reviews": 59
+                },
+                {
+                    "title": "Agaro Galaxy Portable Blender",
+                    "price": "\u20b92,279",
+                    "category": "Popular products",
+                    "source": "Amazon.in"
+                },
+                {
+                    "title": "Balzano Portable Blender Blender for Smoothie and Juices",
+                    "original_price": "Usually \u20b91,999",
+                    "price": "\u20b91,789",
+                    "rating": 4.5,
+                    "category": "Popular products",
+                    "source": "Zepto",
+                    "reviews": 2
+                },
+                {
+                    "title": "Portable Blender Bottle 180W USB-C Rechargeable",
+                    "price": "\u20b92,799",
+                    "category": "Popular products",
+                    "source": "Amazon.in"
+                },
+                {
+                    "title": "Qlect Portable Blender Electric Juicer",
+                    "price": "\u20b9698",
+                    "category": "Popular products",
+                    "source": "Amazon.in"
+                },
+                {
+                    "title": "Portable Blender Electric Juicers Fruit Mixers USB Rechargeable Smoothie Mini Personal Juicer 6 Blades 3Gears With 1500 Mah Rechargeable",
+                    "price": "\u20b9499",
+                    "category": "Popular products",
+                    "source": "Amazon.in"
+                },
+                {
+                    "title": "Pigeon Uno Personal Blender",
+                    "price": "\u20b9929",
+                    "rating": 5.0,
+                    "category": "Popular products",
+                    "source": "bigbasket.com",
+                    "reviews": 1
+                },
+                {
+                    "title": "HOMEBASIC Portable Blender 400ml, USB-C Rechargeable Smoothie Juicer with 6 Stainless Steel Blades, 22000RPM Mini Mixer for Shakes & Smoothies| Fruit",
+                    "price": "\u20b9699",
+                    "category": "Popular products",
+                    "source": "Amazon.in"
+                },
+                {
+                    "title": "Portable Juicer Blender with 6-Blade, USB Rechargeable, Personal Smoothie Maker, Protein Shake Mixer, Built-In Bottle, for Home, Travel and Gym",
+                    "price": "\u20b9199",
+                    "category": "Popular products",
+                    "source": "Amazon.in"
+                },
+                {
+                    "title": "Lifelong Portable Juicer Blender",
+                    "price": "\u20b91,199",
+                    "category": "Popular products",
+                    "source": "Amazon.in"
+                },
+                {
+                    "title": "Wonderchef Nutri Cup Portable Blender",
+                    "original_price": "Usually \u20b91,399",
+                    "price": "\u20b91,189",
+                    "rating": 2.8,
+                    "category": "Popular products",
+                    "source": "bigbasket.com",
+                    "reviews": 59
+                },
+                {
+                    "title": "Boss E111 Portable Hand Blender",
+                    "price": "\u20b91,399",
+                    "category": "Popular products",
+                    "source": "Amazon.in"
+                },
+                {
+                    "title": "Balzano Portable Blender Blender for Smoothie and Juices",
+                    "original_price": "Usually \u20b91,999",
+                    "price": "\u20b91,789",
+                    "rating": 4.5,
+                    "category": "Popular products",
+                    "source": "Zepto",
+                    "reviews": 2
+                },
+                {
+                    "title": "Borosil Portable Blender",
+                    "price": "\u20b91,769",
+                    "category": "Popular products",
+                    "source": "amazon.in"
+                },
+                {
+                    "title": "Borosil Nutrimate Portable Blender with Grinder",
+                    "original_price": "Was \u20b94,634",
+                    "price": "\u20b93,379",
+                    "category": "Popular products",
+                    "source": "Amazon.in"
+                },
+                {
+                    "title": "Portable Blender Bottle 180W USB-C Rechargeable",
+                    "price": "\u20b92,799",
+                    "category": "Popular products",
+                    "source": "Amazon.in"
+                },
+                {
+                    "title": "HomeBasic Portable Blender",
+                    "original_price": "72% off\u20b97,999",
+                    "price": "\u20b92,247",
+                    "category": "Popular products",
+                    "source": "Flipkart"
+                },
+                {
+                    "title": "Agaro Galaxy Portable Blender",
+                    "price": "\u20b92,279",
+                    "category": "Popular products",
+                    "source": "Amazon.in"
+                },
+                {
+                    "title": "InstaCuppa Portable Blender Upgraded Edition",
+                    "original_price": "Was \u20b92,999",
+                    "price": "\u20b92,299",
+                    "category": "Popular products",
+                    "source": "InstaCuppa"
+                },
+                {
+                    "title": "Ninja Blast Portable Blender Cordless 18oz. Vessel Personal Blender for Shakes & Smoothies",
+                    "price": "\u20b95,649",
+                    "rating": 4.3,
+                    "category": "Popular products",
+                    "source": "Amazon.in",
+                    "reviews": 8900
+                },
+                {
+                    "title": "Ninja Blast Portable Cordless Blender bc151in",
+                    "price": "\u20b95,299",
+                    "rating": 4.3,
+                    "category": "Popular products",
+                    "source": "Shark Ninja India",
+                    "reviews": 8900
+                },
+                {
+                    "title": "Ninja Blast Portable Cordless Blender (BC151WH) 530ml | USB-C Rechargeable | Crushes Ice & Frozen Fruit | BPA Free, Leak-Proof Travel Lid Stainless",
+                    "price": "\u20b95,649",
+                    "rating": 4.3,
+                    "category": "Popular products",
+                    "source": "Amazon.in",
+                    "reviews": 8900
+                },
+                {
+                    "title": "nutribullet Portable Blender",
+                    "price": "\u20b98,145.54",
+                    "rating": 4.3,
+                    "category": "Popular products",
+                    "source": "amazon.in",
+                    "reviews": 2700
+                },
+                {
+                    "title": "Ninja Blast Portable Cordless Blender (BC151IN) | 530ml, USB-C Rechargeable | Leak-Proof Lid Cranberry",
+                    "price": "\u20b95,299",
+                    "rating": 4.3,
+                    "category": "Popular products",
+                    "source": "Shark Ninja India",
+                    "reviews": 8900
+                }
+            ],
+            "related_searches": [
+                "Consumer product portable blender review",
+                "Consumer product portable blender india",
+                "Agaro Portable Blender",
+                "Consumer product portable blender price in india",
+                "Consumer product portable blender amazon",
+                "Consumer product portable blender price",
+                "Consumer product portable blender manual",
+                "Agaro portable blender review"
+            ]
+        },
+        "google_news": [
+            {
+                "title": "Portable Blenders Market Set to Reach USD 764 Mn by 2035 Driven by Rising Health Awareness, and Innovation in Rechargeable Smart Kitchen Appliances - Market Research Intellect",
+                "source": "PR Newswire UK"
+            },
+            {
+                "title": "Northern America Portable Blender Accessories - Market Analysis, Forecast, Size, Trends and Insights",
+                "source": "IndexBox"
+            },
+            {
+                "title": "Nutriblend Pro Reviewed: The Truth Behind This Nutriblend Pro Portable Blender To Know Before Buying!",
+                "source": "Newswire.com"
+            },
+            {
+                "title": "Portable Blender Market Size, Share | Forecast Report [2034]",
+                "source": "Fortune Business Insights"
+            },
+            {
+                "title": "BlendJet Recalls 4.8 Million BlendJet 2 Portable Blenders Due to Fire and Laceration Hazards",
+                "source": "U.S. Consumer Product Safety Commission (.gov)"
+            },
+            {
+                "title": "BIS Hyderabad Raids Hand Held Blender Unit",
+                "source": "PIB"
+            },
+            {
+                "title": "Take Your Smoothie to Go With These 8 Tested and Approved Personal Blenders",
+                "source": "The Spruce Eats"
+            },
+            {
+                "title": "BlendJet Initiates Voluntary Recall of Certain BlendJet 2 Portable Blenders",
+                "source": "PR Newswire"
+            },
+            {
+                "title": "Portable Blender Market to Reach USD 336.3 Mn by 2033",
+                "source": "Market.us"
+            },
+            {
+                "title": "Nearly 5M blenders sold at Costco, Target and Walmart recalled over fire and laceration risks",
+                "source": "NBC News"
+            },
+            {
+                "title": "BlendJet blenders: 4.8 million recalled; blades can break, appliance can catch fire",
+                "source": "PIRG"
+            },
+            {
+                "title": "Nearly Five Million Portable Blenders Recalled Over Fire, Laceration Risks",
+                "source": "WSJ"
+            },
+            {
+                "title": "BlendJet recall 2023: Portable blender recalled over injury reports from blades breaking, fire risk",
+                "source": "ABC7 Bay Area"
+            },
+            {
+                "title": "SharkNinja enters India, eyes local production under Make in India",
+                "source": "Business Standard"
+            },
+            {
+                "title": "Kitchen Experts Say These 4 Immersion Blenders Are Worth It",
+                "source": "Good Housekeeping"
+            },
+            {
+                "title": "SharkNinja enters India with Shark and Ninja brands, targets premium home appliance market",
+                "source": "MediaNews4U"
+            },
+            {
+                "title": "BlenderCap portable blender launches",
+                "source": "TechCrunch"
+            },
+            {
+                "title": "4.8 million BlendJet portable blenders recalled due to fire and laceration hazards",
+                "source": "CNN"
+            },
+            {
+                "title": "We've Tested Almost 100 Blenders in the Past 4 Years. These 4 Are the Best.",
+                "source": "Good Housekeeping"
+            },
+            {
+                "title": "BlendJet recalling 4.8M portable blenders following reports of malfunctions leading to injuries",
+                "source": "The Hill"
+            },
+            {
+                "title": "BlendJet recalls almost 5 million blenders on concerns over fire, blades",
+                "source": "The Washington Post"
+            },
+            {
+                "title": "Popular BlendJet Portable Blender May Pose Risks",
+                "source": "Consumer Reports"
+            },
+            {
+                "title": "BlendJet recalls nearly 5million portable blenders due to fire, laceration hazards",
+                "source": "Sun TCI"
+            },
+            {
+                "title": "BlendJet\u2019s Fix to Its Portable Blender Passes CR's Durability Test",
+                "source": "Consumer Reports"
+            },
+            {
+                "title": "BlendIt Review 2026: Don't Buy \"Portable Blender\" Without Reading This First!",
+                "source": "Newswire.com"
+            },
+            {
+                "title": "Consumer Reports warns consumers about potential for injury with popular portable blender",
+                "source": "KSAT"
+            },
+            {
+                "title": "New nutribullet Flex\u2122 Portable Blender Advances On-The-Go Blending with An Innovative, Flexible Design",
+                "source": "PR Newswire"
+            },
+            {
+                "title": "Portable blender sold at Kmart and Target recalled over serious injury risk",
+                "source": "7NEWS"
+            },
+            {
+                "title": "4 Best Portable Blenders for Backyard Margaritas and Poolside Smoothies",
+                "source": "Good Housekeeping"
+            },
+            {
+                "title": "Additional Consumer Incidents Increase Concerns About BlendJet 2 Portable Blender",
+                "source": "Consumer Reports"
+            },
+            {
+                "title": "Nearly 5 million portable blenders recalled due to laceration and fire risks",
+                "source": "NBC4 Washington"
+            },
+            {
+                "title": "Most Personal Blenders Aren't Worth It\u2014Our Cooking Pro Says These 5 Actually Are",
+                "source": "Good Housekeeping"
+            },
+            {
+                "title": "BlendJet recalls 4.8M blenders over broken blades, overheating issues and more than a dozen injuries",
+                "source": "Fox Business"
+            },
+            {
+                "title": "7 Best Personal Blenders of 2026, Lab-Tested and Reviewed",
+                "source": "Consumer Reports"
+            },
+            {
+                "title": "17 best smoothie blenders for fruity drinks and protein shakes, starting from just \u00a319",
+                "source": "Good Housekeeping"
+            },
+            {
+                "title": "NutriBlend Pro Review: The Portable Blender Built for Smoothies, Travel, and Daily Nutrition",
+                "source": "ACCESS Newswire"
+            },
+            {
+                "title": "14 best blenders to buy in 2026 for all your smoothies, soups and sauces",
+                "source": "Good Housekeeping"
+            },
+            {
+                "title": "Race-Inspired Kitchen Appliances",
+                "source": "Trend Hunter"
+            },
+            {
+                "title": "Consumer Protection Authority recalls BlendJet portable blender",
+                "source": "Oman Observer"
+            },
+            {
+                "title": "Over 4M portable blenders recalled due to potential fire, laceration risks",
+                "source": "ABC News - Breaking News, Latest News and Videos"
+            },
+            {
+                "title": "BlendJet recalls over 4 million portable blenders for fire and laceration hazards",
+                "source": "WESH"
+            },
+            {
+                "title": "Nearly 5M BlendJet portable blenders recalled over fire, laceration risks",
+                "source": "New York Post"
+            },
+            {
+                "title": "Portable Protein Shots",
+                "source": "Trend Hunter"
+            },
+            {
+                "title": "BlendJet Recalls 4.8 Million Portable Blenders Due to Fire and Laceration Hazards",
+                "source": "Taste of Home"
+            },
+            {
+                "title": "The best hand blenders for blitzing sauces, dips and soups",
+                "source": "Good Housekeeping"
+            },
+            {
+                "title": "5 Million Smoothie Blenders Have Been Recalled in the USA and Canada",
+                "source": "The Healthy @Reader's Digest"
+            },
+            {
+                "title": "4 Best Immersion Blenders, Lab-Tested and Reviewed",
+                "source": "Consumer Reports"
+            },
+            {
+                "title": "The most innovative companies in consumer goods for 2024",
+                "source": "Fast Company"
+            },
+            {
+                "title": "Stop using these portable blenders; they may cause a safety hazard",
+                "source": "NJ.com"
+            },
+            {
+                "title": "Kmart, Target recall popular blender due to injury fears",
+                "source": "The New Daily"
+            },
+            {
+                "title": "BlendJet 2 Portable Blender Recall Impacts 4.9M Blenders, Following Dozens of Reported Injuries",
+                "source": "AboutLawsuits.com"
+            },
+            {
+                "title": "Almost 5 million blenders sold at Costco, Target and Walmart are recalled because blades are breaking off",
+                "source": "CBS News"
+            },
+            {
+                "title": "9 Best Portable Blenders, According To Online Reviews",
+                "source": "Tasting Table"
+            },
+            {
+                "title": "4.8M Blenders Recalled Because They Can Catch Fire, Blades Can Break",
+                "source": "Patch"
+            },
+            {
+                "title": "Almost 5 million portable blenders sold at Costco, Walmart, Target recalled",
+                "source": "PennLive.com"
+            },
+            {
+                "title": "4.8 Million BlendJet 2 Personal Blenders Recalled",
+                "source": "Consumer Reports"
+            },
+            {
+                "title": "BlendJet class action claims portable blenders cause fires, explosions",
+                "source": "Class Action Lawsuits"
+            },
+            {
+                "title": "Canada-wide blender recall: How to get a new one for free without a receipt",
+                "source": "Daily Hive"
+            },
+            {
+                "title": "Kmart and Target blender recalled amid reports of \u2018self-activation\u2019",
+                "source": "Sky News Australia"
+            },
+            {
+                "title": "Most and Least Reliable Blender Brands",
+                "source": "Consumer Reports"
+            },
+            {
+                "title": "Kmart\u2019s Latest Recalled Items: Blender Hazard and Dangerous Toy Alert",
+                "source": "bay 93.9"
+            },
+            {
+                "title": "From Law Student To Award-Winning Entrepreneur: How HiBlendr\u2019s Andrew Poh Turned His Health Struggles Into A Wellness Product",
+                "source": "DollarsAndSense.sg"
+            },
+            {
+                "title": "5 Best Hand Mixers of 2026, Lab-Tested and Reviewed",
+                "source": "Consumer Reports"
+            },
+            {
+                "title": "\"Target, Select Brands Recall Chefmate Blender Due to Laceration Hazard\"",
+                "source": "U.S. Consumer Product Safety Commission (.gov)"
+            },
+            {
+                "title": "Generac Portable Generators Recalled Due to Serious Fire and Burn Risks",
+                "source": "Consumer Reports"
+            },
+            {
+                "title": "BlendJet 2 portable blender recalled from The Good Guys, Myer, Harvey Norman, JB HiFi and Costco",
+                "source": "7NEWS"
+            },
+            {
+                "title": "Generac Recalls More Than 321,000 Portable Generators",
+                "source": "Consumer Reports"
+            },
+            {
+                "title": "BlendJet2 Blenders Recalled for Fire Risk as Company Shuts Down",
+                "source": "channelnews.com.au"
+            },
+            {
+                "title": "Ninja Blast portable blender 'packs good power' drops below \u00a324 with rare cashback stack",
+                "source": "Daily Record"
+            }
+        ],
+        "google_trends": [
+            {
+                "date": "Jun 29\u2009\u2013\u2009Jul 5, 2025",
+                "query": "portable blender",
+                "extracted_value": 25
+            },
+            {
+                "date": "Jul 6\u2009\u2013\u200912, 2025",
+                "query": "portable blender",
+                "extracted_value": 27
+            },
+            {
+                "date": "Jul 13\u2009\u2013\u200919, 2025",
+                "query": "portable blender",
+                "extracted_value": 25
+            },
+            {
+                "date": "Jul 20\u2009\u2013\u200926, 2025",
+                "query": "portable blender",
+                "extracted_value": 25
+            },
+            {
+                "date": "Jul 27\u2009\u2013\u2009Aug 2, 2025",
+                "query": "portable blender",
+                "extracted_value": 24
+            },
+            {
+                "date": "Aug 3\u2009\u2013\u20099, 2025",
+                "query": "portable blender",
+                "extracted_value": 28
+            },
+            {
+                "date": "Aug 10\u2009\u2013\u200916, 2025",
+                "query": "portable blender",
+                "extracted_value": 30
+            },
+            {
+                "date": "Aug 17\u2009\u2013\u200923, 2025",
+                "query": "portable blender",
+                "extracted_value": 21
+            },
+            {
+                "date": "Aug 24\u2009\u2013\u200930, 2025",
+                "query": "portable blender",
+                "extracted_value": 24
+            },
+            {
+                "date": "Aug 31\u2009\u2013\u2009Sep 6, 2025",
+                "query": "portable blender",
+                "extracted_value": 25
+            },
+            {
+                "date": "Sep 7\u2009\u2013\u200913, 2025",
+                "query": "portable blender",
+                "extracted_value": 24
+            },
+            {
+                "date": "Sep 14\u2009\u2013\u200920, 2025",
+                "query": "portable blender",
+                "extracted_value": 19
+            },
+            {
+                "date": "Sep 21\u2009\u2013\u200927, 2025",
+                "query": "portable blender",
+                "extracted_value": 27
+            },
+            {
+                "date": "Sep 28\u2009\u2013\u2009Oct 4, 2025",
+                "query": "portable blender",
+                "extracted_value": 24
+            },
+            {
+                "date": "Oct 5\u2009\u2013\u200911, 2025",
+                "query": "portable blender",
+                "extracted_value": 26
+            },
+            {
+                "date": "Oct 12\u2009\u2013\u200918, 2025",
+                "query": "portable blender",
+                "extracted_value": 34
+            },
+            {
+                "date": "Oct 19\u2009\u2013\u200925, 2025",
+                "query": "portable blender",
+                "extracted_value": 25
+            },
+            {
+                "date": "Oct 26\u2009\u2013\u2009Nov 1, 2025",
+                "query": "portable blender",
+                "extracted_value": 25
+            },
+            {
+                "date": "Nov 2\u2009\u2013\u20098, 2025",
+                "query": "portable blender",
+                "extracted_value": 24
+            },
+            {
+                "date": "Nov 9\u2009\u2013\u200915, 2025",
+                "query": "portable blender",
+                "extracted_value": 30
+            },
+            {
+                "date": "Nov 16\u2009\u2013\u200922, 2025",
+                "query": "portable blender",
+                "extracted_value": 26
+            },
+            {
+                "date": "Nov 23\u2009\u2013\u200929, 2025",
+                "query": "portable blender",
+                "extracted_value": 31
+            },
+            {
+                "date": "Nov 30\u2009\u2013\u2009Dec 6, 2025",
+                "query": "portable blender",
+                "extracted_value": 36
+            },
+            {
+                "date": "Dec 7\u2009\u2013\u200913, 2025",
+                "query": "portable blender",
+                "extracted_value": 40
+            },
+            {
+                "date": "Dec 14\u2009\u2013\u200920, 2025",
+                "query": "portable blender",
+                "extracted_value": 35
+            },
+            {
+                "date": "Dec 21\u2009\u2013\u200927, 2025",
+                "query": "portable blender",
+                "extracted_value": 26
+            },
+            {
+                "date": "Dec 28, 2025\u2009\u2013\u2009Jan 3, 2026",
+                "query": "portable blender",
+                "extracted_value": 22
+            },
+            {
+                "date": "Jan 4\u2009\u2013\u200910, 2026",
+                "query": "portable blender",
+                "extracted_value": 31
+            },
+            {
+                "date": "Jan 11\u2009\u2013\u200917, 2026",
+                "query": "portable blender",
+                "extracted_value": 23
+            },
+            {
+                "date": "Jan 18\u2009\u2013\u200924, 2026",
+                "query": "portable blender",
+                "extracted_value": 26
+            },
+            {
+                "date": "Jan 25\u2009\u2013\u200931, 2026",
+                "query": "portable blender",
+                "extracted_value": 29
+            },
+            {
+                "date": "Feb 1\u2009\u2013\u20097, 2026",
+                "query": "portable blender",
+                "extracted_value": 26
+            },
+            {
+                "date": "Feb 8\u2009\u2013\u200914, 2026",
+                "query": "portable blender",
+                "extracted_value": 36
+            },
+            {
+                "date": "Feb 15\u2009\u2013\u200921, 2026",
+                "query": "portable blender",
+                "extracted_value": 42
+            },
+            {
+                "date": "Feb 22\u2009\u2013\u200928, 2026",
+                "query": "portable blender",
+                "extracted_value": 45
+            },
+            {
+                "date": "Mar 1\u2009\u2013\u20097, 2026",
+                "query": "portable blender",
+                "extracted_value": 34
+            },
+            {
+                "date": "Mar 8\u2009\u2013\u200914, 2026",
+                "query": "portable blender",
+                "extracted_value": 35
+            },
+            {
+                "date": "Mar 15\u2009\u2013\u200921, 2026",
+                "query": "portable blender",
+                "extracted_value": 40
+            },
+            {
+                "date": "Mar 22\u2009\u2013\u200928, 2026",
+                "query": "portable blender",
+                "extracted_value": 43
+            },
+            {
+                "date": "Mar 29\u2009\u2013\u2009Apr 4, 2026",
+                "query": "portable blender",
+                "extracted_value": 30
+            },
+            {
+                "date": "Apr 5\u2009\u2013\u200911, 2026",
+                "query": "portable blender",
+                "extracted_value": 32
+            },
+            {
+                "date": "Apr 12\u2009\u2013\u200918, 2026",
+                "query": "portable blender",
+                "extracted_value": 35
+            },
+            {
+                "date": "Apr 19\u2009\u2013\u200925, 2026",
+                "query": "portable blender",
+                "extracted_value": 100
+            },
+            {
+                "date": "Apr 26\u2009\u2013\u2009May 2, 2026",
+                "query": "portable blender",
+                "extracted_value": 49
+            },
+            {
+                "date": "May 3\u2009\u2013\u20099, 2026",
+                "query": "portable blender",
+                "extracted_value": 48
+            },
+            {
+                "date": "May 10\u2009\u2013\u200916, 2026",
+                "query": "portable blender",
+                "extracted_value": 46
+            },
+            {
+                "date": "May 17\u2009\u2013\u200923, 2026",
+                "query": "portable blender",
+                "extracted_value": 49
+            },
+            {
+                "date": "May 24\u2009\u2013\u200930, 2026",
+                "query": "portable blender",
+                "extracted_value": 43
+            },
+            {
+                "date": "May 31\u2009\u2013\u2009Jun 6, 2026",
+                "query": "portable blender",
+                "extracted_value": 38
+            },
+            {
+                "date": "Jun 7\u2009\u2013\u200913, 2026",
+                "query": "portable blender",
+                "extracted_value": 40
+            },
+            {
+                "date": "Jun 14\u2009\u2013\u200920, 2026",
+                "query": "portable blender",
+                "extracted_value": 26
+            },
+            {
+                "date": "Jun 21\u2009\u2013\u200927, 2026",
+                "query": "portable blender",
+                "extracted_value": 33
+            },
+            {
+                "date": "Jun 28\u2009\u2013\u2009Jul 4, 2026",
+                "query": "portable blender",
+                "extracted_value": 39
+            }
+        ]
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "opportunity_analysis": {
+        "market_interest": {
+            "level": "High",
+            "reasoning": "Customer interest is high as the search keywords include 'portable blender', 'cordless blender', 'mini blender', 'blender for small kitchens', 'blender for students', 'blender for busy households', 'blender under \u20b92000', 'blender for quick meal prep', 'blender for smoothies', 'blender for protein shakes'.",
+            "evidence": "Search keywords",
+            "confidence": 0.9
+        },
+        "market_summary": {
+            "overall_market": "Growing",
+            "market_stage": "Emerging",
+            "reasoning": "The market is growing as the portable blender market is projected to reach USD 318.2 Million by 2036, expanding at a CAGR of 6.4% from 2026 to 2036. The global portable blender market size was valued at USD 233.2 million in 2024 and is projected to grow at a CAGR of 4.9% between 2025 and 2034.",
+            "evidence": "Market size and growth projections",
+            "confidence": 0.8
+        },
+        "competition": {
+            "level": "High",
+            "reasoning": "Competition is high as there are many brands available, including Ninja, OWNAIR, Pigeon, Wonderchef, amazon basics, Lifelong, Inalsa, and MODWARE.",
+            "major_brands": [
+                "Ninja",
+                "OWNAIR",
+                "Pigeon",
+                "Wonderchef",
+                "amazon basics",
+                "Lifelong",
+                "Inalsa",
+                "MODWARE"
+            ],
+            "evidence": "Brands listed",
+            "confidence": 0.8
+        },
+        "pricing": {
+            "market_price_range": "Under \u20b92000",
+            "reasoning": "The target price constraint is under \u20b92000.",
+            "evidence": "Target price constraint",
+            "confidence": 0.9
+        },
+        "customer_voice": {
+            "pain_points": [
+                "Need for a compact, portable, and easy-to-use blender for quick meal preparations"
+            ],
+            "desired_features": [
+                "Portable",
+                "USB Rechargeable",
+                "Lightweight",
+                "Adjustable Speed Control",
+                "Auto Shut Off",
+                "Automatic Cleaning",
+                "Compact",
+                "Cordless",
+                "Detachable Attachment",
+                "Ergonomic Handle",
+                "Heat Resistant Glass Container",
+                "Heavy Duty",
+                "One-handed Drinking",
+                "Pulse Technology",
+                "Removable Blade",
+                "Removable Glass Container",
+                "Safety Lock",
+                "Single Serve",
+                "Turbo Boost"
+            ],
+            "common_expectations": [
+                "Blending",
+                "Mixing",
+                "Crushing",
+                "Chopping",
+                "Coffee",
+                "Creams",
+                "Emulsifying",
+                "Grinding",
+                "Ice Crush",
+                "Protein",
+                "Pulse",
+                "Pureeing",
+                "Whipping",
+                "Whisking"
+            ],
+            "evidence": "Problem solved and desired features",
+            "confidence": 0.8
+        },
+        "market_maturity": {
+            "level": "Emerging",
+            "reasoning": "The market is emerging as the portable blender market is growing and there is high competition.",
+            "evidence": "Market size and growth projections, competition level",
+            "confidence": 0.7
+        },
+        "opportunities": [
+            "Portable, USB Rechargeable, Lightweight, Adjustable Speed Control, Auto Shut Off, Automatic Cleaning, Compact, Cordless, Detachable Attachment, Ergonomic Handle, Heat Resistant Glass Container, Heavy Duty, One-handed Drinking, Pulse Technology, Removable Blade, Removable Glass Container, Safety Lock, Single Serve, Turbo Boost"
+        ],
+        "risks": [
+            "Recall of BlendJet 2 Portable Blenders due to fire and laceration hazards",
+            "Recall of Generac Portable Generators due to serious fire and burn risks"
+        ],
+        "positioning_opportunities": [
+            "Position as a compact, portable, and easy-to-use blender for quick meal preparations",
+            "Emphasize the benefits of being USB rechargeable, lightweight, and having adjustable speed control, auto shut off, automatic cleaning, and being compact, cordless, detachable, ergonomic, and having heat resistant glass container, heavy duty, one-handed drinking, pulse technology, removable blade, removable glass container, safety lock, single serve, and turbo boost"
+        ]
+    }
+}

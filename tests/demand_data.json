@@ -1,0 +1,1478 @@
+{
+    "job": {
+        "aggregate_name": null,
+        "browser_instructions": null,
+        "callback_url": null,
+        "client_id": 195245,
+        "client_notes": null,
+        "content_encoding": "utf-8",
+        "context": [
+            {
+                "key": "force_headers",
+                "value": false
+            },
+            {
+                "key": "force_cookies",
+                "value": false
+            },
+            {
+                "key": "hc_policy",
+                "value": true
+            },
+            {
+                "key": "category_id",
+                "value": null
+            },
+            {
+                "key": "merchant_id",
+                "value": null
+            },
+            {
+                "key": "check_empty_geo",
+                "value": null
+            },
+            {
+                "key": "safe_search",
+                "value": true
+            },
+            {
+                "key": "currency",
+                "value": null
+            },
+            {
+                "key": "sort_by",
+                "value": null
+            },
+            {
+                "key": "refinements",
+                "value": null
+            },
+            {
+                "key": "min_price",
+                "value": null
+            },
+            {
+                "key": "max_price",
+                "value": null
+            },
+            {
+                "key": "successful_parse_status_codes",
+                "value": []
+            }
+        ],
+        "created_at": "2026-06-26 06:51:43",
+        "domain": "in",
+        "geo_location": "560001",
+        "id": "7476165281786635265",
+        "limit": 10,
+        "locale": null,
+        "markdown": false,
+        "pages": 1,
+        "parse": true,
+        "parser_preset": null,
+        "parser_type": null,
+        "parsing_instructions": null,
+        "query": "portable blender",
+        "render": null,
+        "session_info": null,
+        "source": "amazon_search",
+        "start_page": 1,
+        "status": "done",
+        "statuses": [],
+        "storage_type": null,
+        "storage_url": null,
+        "subdomain": "www",
+        "updated_at": "2026-06-26 06:51:43",
+        "url": null,
+        "user_agent_type": "desktop",
+        "xhr": false
+    },
+    "results": [
+        {
+            "content": {
+                "last_visible_page": 20,
+                "page": 1,
+                "parse_status_code": 12000,
+                "query": "portable blender",
+                "refinements": {
+                    "availability": [
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_availability%3A1318485031&dc&language=en_IN&qid=1782456710&rnid=1318483031&ref=sr_nr_p_n_availability_2&ds=v1%3AncTbkVbY381RGMPuoEAO0A12fopZYP9RsJg0W7DxUEg",
+                            "name": "Include Out of Stock",
+                            "refinement_display_name": "Availability",
+                            "value": "p_n_availability/1318485031"
+                        }
+                    ],
+                    "brands": [
+                        {
+                            "link": "/s?k=portable+blender&rh=p_123%3A4640019&dc&language=en_IN&qid=1782456710&rnid=91049095031&ref=sr_nr_p_123_1&ds=v1%3AqDS%2FJ5tN4VlajD2g3PDomfN%2FRUhhf0fV4kCypKCG4uA",
+                            "name": "turelar",
+                            "refinement_display_name": "Brands",
+                            "value": "p_123/4640019"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_123%3A391646&dc&language=en_IN&qid=1782456710&rnid=91049095031&ref=sr_nr_p_123_2&ds=v1%3ABOuZRko8TMhtk3HHa1G81sEX4yUrW5saIID%2BnbmP51k",
+                            "name": "Ninja",
+                            "refinement_display_name": "Brands",
+                            "value": "p_123/391646"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_123%3A363752&dc&language=en_IN&qid=1782456710&rnid=91049095031&ref=sr_nr_p_123_3&ds=v1%3A99KYyv4C%2Bk5xwRwgdMe%2BcejExZPDGbL6buhLXxL93uE",
+                            "name": "Borosil",
+                            "refinement_display_name": "Brands",
+                            "value": "p_123/363752"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_123%3A5759398&dc&language=en_IN&qid=1782456710&rnid=91049095031&ref=sr_nr_p_123_4&ds=v1%3AqEBuBCz8FNIG7X7lPsGVLCzLPMTrvNg8MbgHwSD2ZRI",
+                            "name": "Salt",
+                            "refinement_display_name": "Brands",
+                            "value": "p_123/5759398"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_123%3A465748&dc&language=en_IN&qid=1782456710&rnid=91049095031&ref=sr_nr_p_123_5&ds=v1%3AofY94jB0XuEU4S8Bvphz1IUyO0RUDhDYJPXxqbMAX8Q",
+                            "name": "NutriBullet",
+                            "refinement_display_name": "Brands",
+                            "value": "p_123/465748"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_123%3A15377938&dc&language=en_IN&qid=1782456710&rnid=91049095031&ref=sr_nr_p_123_6&ds=v1%3A66PACYFgkBX9xihuta5zX2MKFPItMmAb821%2BZykFiMQ",
+                            "name": "HOMEBASIC",
+                            "refinement_display_name": "Brands",
+                            "value": "p_123/15377938"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_123%3A862402&dc&language=en_IN&qid=1782456710&rnid=91049095031&ref=sr_nr_p_123_7&ds=v1%3AaG35iwxgYFjHEyKTCNBuoyuW3uRQRmqMh3n1gr18zd8",
+                            "name": "BOSS",
+                            "refinement_display_name": "Brands",
+                            "value": "p_123/862402"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_123%3A195698&dc&language=en_IN&qid=1782456710&rnid=91049095031&ref=sr_nr_p_123_8&ds=v1%3AaPizLmiEx23leuA0IzA94FndPLriA31hjloiNf%2FZiDw",
+                            "name": "PHILIPS",
+                            "refinement_display_name": "Brands",
+                            "value": "p_123/195698"
+                        }
+                    ],
+                    "capacity": [
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-101016790555111%3A211000690031&dc&language=en_IN&qid=1782456710&rnid=211000685031&ref=sr_nr_p_n_g-101016790555111_1&ds=v1%3A4aiYmLOMfB6sxA9OEvo0DuvM4GcDwAvO6C%2BLgSsZvjs",
+                            "name": "Up to 449 mL",
+                            "refinement_display_name": "Capacity",
+                            "value": "p_n_g-101016790555111/211000690031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-101016790555111%3A211000695031&dc&language=en_IN&qid=1782456710&rnid=211000685031&ref=sr_nr_p_n_g-101016790555111_2&ds=v1%3Ag8eXUBzjeaNln6yOdUXzsEO5Em3OyRwOBcDI1MnnGoI",
+                            "name": "450 to 849 mL",
+                            "refinement_display_name": "Capacity",
+                            "value": "p_n_g-101016790555111/211000695031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-101016790555111%3A211000691031&dc&language=en_IN&qid=1782456710&rnid=211000685031&ref=sr_nr_p_n_g-101016790555111_3&ds=v1%3AF6R794IvN1SMRTgyHn2a88RXxmfS1UAkZY0Y20yBcis",
+                            "name": "850 to 1,499 mL",
+                            "refinement_display_name": "Capacity",
+                            "value": "p_n_g-101016790555111/211000691031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-101016790555111%3A211000696031&dc&language=en_IN&qid=1782456710&rnid=211000685031&ref=sr_nr_p_n_g-101016790555111_4&ds=v1%3Az0Xj%2Bqg6v7HBRnm%2F%2BKhD45rIg12i05Sl4A7XaeVCJns",
+                            "name": "1,500 mL & above",
+                            "refinement_display_name": "Capacity",
+                            "value": "p_n_g-101016790555111/211000696031"
+                        }
+                    ],
+                    "colour": [
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1004163754091%3A1480401031&dc&language=en_IN&qid=1782456710&rnid=1480399031&ref=sr_nr_p_n_g-1004163754091_1&ds=v1%3Ai6fsY9u%2BZDI8UOzFFQJuNagVGXhaAuc3puElFcXzGSU",
+                            "name": "Apply the filter Black to narrow results",
+                            "refinement_display_name": "Colour",
+                            "value": "p_n_g-1004163754091/1480401031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1004163754091%3A1480406031&dc&language=en_IN&qid=1782456710&rnid=1480399031&ref=sr_nr_p_n_g-1004163754091_2&ds=v1%3A3pB01t5v%2FHplViwepTwpafFexL8dPVCLZjDedXRWrX4",
+                            "name": "Apply the filter Grey to narrow results",
+                            "refinement_display_name": "Colour",
+                            "value": "p_n_g-1004163754091/1480406031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1004163754091%3A1480416031&dc&language=en_IN&qid=1782456710&rnid=1480399031&ref=sr_nr_p_n_g-1004163754091_3&ds=v1%3AiAF0b9B2eglCF65odr4FKi7hHQ%2FBg7b7NVs%2F9pqPuDI",
+                            "name": "Apply the filter White to narrow results",
+                            "refinement_display_name": "Colour",
+                            "value": "p_n_g-1004163754091/1480416031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1004163754091%3A1480400031&dc&language=en_IN&qid=1782456710&rnid=1480399031&ref=sr_nr_p_n_g-1004163754091_4&ds=v1%3AXro7BCtSmT8J0H1EzM%2FqbSpIZlmrjCivDoy%2FGgwbjkw",
+                            "name": "Apply the filter Beige to narrow results",
+                            "refinement_display_name": "Colour",
+                            "value": "p_n_g-1004163754091/1480400031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1004163754091%3A1480413031&dc&language=en_IN&qid=1782456710&rnid=1480399031&ref=sr_nr_p_n_g-1004163754091_5&ds=v1%3A8wclXJZfKNZmXgOWAMgibng0qfyP50lEENjjK%2B8M5k0",
+                            "name": "Apply the filter Red to narrow results",
+                            "refinement_display_name": "Colour",
+                            "value": "p_n_g-1004163754091/1480413031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1004163754091%3A1480411031&dc&language=en_IN&qid=1782456710&rnid=1480399031&ref=sr_nr_p_n_g-1004163754091_6&ds=v1%3AS7b%2FBooEBDLfq7qlS6gEA485ppf7J2K%2FQc%2Fwi8CYRFc",
+                            "name": "Apply the filter Pink to narrow results",
+                            "refinement_display_name": "Colour",
+                            "value": "p_n_g-1004163754091/1480411031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1004163754091%3A1480417031&dc&language=en_IN&qid=1782456710&rnid=1480399031&ref=sr_nr_p_n_g-1004163754091_7&ds=v1%3AnzMBROxofQ3QcgKz7WRpqV1DgrXiwz%2FoCSFiyi4qQUs",
+                            "name": "Apply the filter Yellow to narrow results",
+                            "refinement_display_name": "Colour",
+                            "value": "p_n_g-1004163754091/1480417031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1004163754091%3A1480405031&dc&language=en_IN&qid=1782456710&rnid=1480399031&ref=sr_nr_p_n_g-1004163754091_8&ds=v1%3ApymhgIkdotxXc37oWBgwz%2Bt%2FbF%2BL0dcTbtPB7lveJKs",
+                            "name": "Apply the filter Green to narrow results",
+                            "refinement_display_name": "Colour",
+                            "value": "p_n_g-1004163754091/1480405031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1004163754091%3A1480415031&dc&language=en_IN&qid=1782456710&rnid=1480399031&ref=sr_nr_p_n_g-1004163754091_9&ds=v1%3AwHHtARxquUZdL8nvuZDGXu1siCoKGEzseN%2FOMV%2FlM%2FI",
+                            "name": "Apply the filter Turquoise to narrow results",
+                            "refinement_display_name": "Colour",
+                            "value": "p_n_g-1004163754091/1480415031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1004163754091%3A1480402031&dc&language=en_IN&qid=1782456710&rnid=1480399031&ref=sr_nr_p_n_g-1004163754091_10&ds=v1%3ACReVPitn9JmbS5ZV9rgSZnJJhBmLKuK%2FKWzTe5Eb45g",
+                            "name": "Apply the filter Blue to narrow results",
+                            "refinement_display_name": "Colour",
+                            "value": "p_n_g-1004163754091/1480402031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1004163754091%3A1480412031&dc&language=en_IN&qid=1782456710&rnid=1480399031&ref=sr_nr_p_n_g-1004163754091_11&ds=v1%3Ao4cQvOH%2FTVc0Algwid%2BhyEyxxXy%2FSEjXK6ghmywsYvg",
+                            "name": "Apply the filter Purple to narrow results",
+                            "refinement_display_name": "Colour",
+                            "value": "p_n_g-1004163754091/1480412031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1004163754091%3A1480414031&dc&language=en_IN&qid=1782456710&rnid=1480399031&ref=sr_nr_p_n_g-1004163754091_12&ds=v1%3Afi1%2B%2FYEwGBNdfepvRgKEkRUtiwh42lwvkxZe6ePkmfk",
+                            "name": "Apply the filter Silver to narrow results",
+                            "refinement_display_name": "Colour",
+                            "value": "p_n_g-1004163754091/1480414031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1004163754091%3A1480408031&dc&language=en_IN&qid=1782456710&rnid=1480399031&ref=sr_nr_p_n_g-1004163754091_13&ds=v1%3AcX7dETvO5c92xPZR1yVduMSazK6J7CL%2FImT8ykw2CQ8",
+                            "name": "Apply the filter Multicolour to narrow results",
+                            "refinement_display_name": "Colour",
+                            "value": "p_n_g-1004163754091/1480408031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1004163754091%3A3248231031&dc&language=en_IN&qid=1782456710&rnid=1480399031&ref=sr_nr_p_n_g-1004163754091_14&ds=v1%3A0npgROQz4iz3fEJ5ujDU3WK01RDlnkxH3khXDRLBsH0",
+                            "name": "Apply the filter Transparent to narrow results",
+                            "refinement_display_name": "Colour",
+                            "value": "p_n_g-1004163754091/3248231031"
+                        }
+                    ],
+                    "controls_type": [
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-101014776045111%3A85435994031&dc&language=en_IN&qid=1782456710&rnid=85435988031&ref=sr_nr_p_n_g-101014776045111_1&ds=v1%3AazoqEj7Au9E3KNMLuX0J60qeY00k3PdViSWV3ntUA4k",
+                            "name": "Knob",
+                            "refinement_display_name": "Controls Type",
+                            "value": "p_n_g-101014776045111/85435994031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-101014776045111%3A85435993031&dc&language=en_IN&qid=1782456710&rnid=85435988031&ref=sr_nr_p_n_g-101014776045111_2&ds=v1%3AeXbQINDpQOmMZAD01BmRZD76GPqOPH9veQ7fsXM81WE",
+                            "name": "Push Button",
+                            "refinement_display_name": "Controls Type",
+                            "value": "p_n_g-101014776045111/85435993031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-101014776045111%3A85435992031&dc&language=en_IN&qid=1782456710&rnid=85435988031&ref=sr_nr_p_n_g-101014776045111_3&ds=v1%3AYZFMLJzcVQ8Tb0HKEcr5kY9lRL%2FAsTBb1Z30U3b72N0",
+                            "name": "Touch",
+                            "refinement_display_name": "Controls Type",
+                            "value": "p_n_g-101014776045111/85435992031"
+                        }
+                    ],
+                    "customer_reviews": [
+                        {
+                            "link": "/s?k=portable+blender&rh=p_72%3A1318476031&dc&language=en_IN&qid=1782456710&rnid=1318475031&ref=sr_nr_p_72_1&ds=v1%3AbXZUUcV5AuDJaBgzeq9nn2mtJMa4YmFQviSNb%2BqaRzg",
+                            "name": "4 Stars",
+                            "refinement_display_name": "Customer Reviews",
+                            "value": "p_72/1318476031"
+                        }
+                    ],
+                    "deals_discounts": [
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_deal_type%3A26921226031&dc&language=en_IN&qid=1782456710&rnid=26921223031&ref=sr_nr_p_n_deal_type_1&ds=v1%3Akb3QC7hVtS%2BXYma0jveu3bD%2BxZRHKLsfT5hAUT8c8Y4",
+                            "name": "All Discounts",
+                            "refinement_display_name": "Deals & Discounts",
+                            "value": "p_n_deal_type/26921226031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_deal_type%3A210770213031&dc&language=en_IN&qid=1782456710&rnid=26921223031&ref=sr_nr_p_n_deal_type_2&ds=v1%3ADgeOTnjq8x0iUsjs1C8ef7qWBZUX5gpeYpZINmD8nLs",
+                            "name": "Buy More, Save More",
+                            "refinement_display_name": "Deals & Discounts",
+                            "value": "p_n_deal_type/210770213031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_deal_type%3A210770212031&dc&language=en_IN&qid=1782456710&rnid=26921223031&ref=sr_nr_p_n_deal_type_3&ds=v1%3ArVfie7ysIuhUaJC9bl4Chjfps6AlZmrgv5FzzwUQTEQ",
+                            "name": "Coupons",
+                            "refinement_display_name": "Deals & Discounts",
+                            "value": "p_n_deal_type/210770212031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_deal_type%3A26921224031&dc&language=en_IN&qid=1782456710&rnid=26921223031&ref=sr_nr_p_n_deal_type_4&ds=v1%3A7k5lr%2FG6vxyWWLGXe6lqfwcUlfK7dYGRBZa2SSvNb60",
+                            "name": "Today's Deals",
+                            "refinement_display_name": "Deals & Discounts",
+                            "value": "p_n_deal_type/26921224031"
+                        }
+                    ],
+                    "delivery_day": [
+                        {
+                            "link": "/s?k=portable+blender&rh=p_90%3A6741117031&dc&language=en_IN&qid=1782456710&rnid=6741116031&ref=sr_nr_p_90_1&ds=v1%3AyJK0MuKnhR%2FNhU%2FDimAcyyeKnP0jYYoc7%2BiSwreqxMs",
+                            "name": "Get It Today",
+                            "refinement_display_name": "Delivery Day",
+                            "value": "p_90/6741117031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_90%3A6741118031&dc&language=en_IN&qid=1782456710&rnid=6741116031&ref=sr_nr_p_90_2&ds=v1%3ACMK4HCuSY%2FgIMgWgYZSgXYVnTH3ZLBy26L%2B%2B9S1f7lI",
+                            "name": "Get It by Tomorrow",
+                            "refinement_display_name": "Delivery Day",
+                            "value": "p_90/6741118031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_90%3A20912642031&dc&language=en_IN&qid=1782456710&rnid=6741116031&ref=sr_nr_p_90_3&ds=v1%3ACkpnKhioPJF4EtndDWQyAGW8RugmNdd7JOC3nDY7Vm8",
+                            "name": "Get It in 2 Days",
+                            "refinement_display_name": "Delivery Day",
+                            "value": "p_90/20912642031"
+                        }
+                    ],
+                    "discount": [
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_pct-off-with-tax%3A2665399031&dc&language=en_IN&qid=1782456710&rnid=2665398031&ref=sr_nr_p_n_pct-off-with-tax_1&ds=v1%3AGv%2FhOXYp8zEmWVBkrWlOTNKJRLjVTja04Dg%2B9n%2FqbCk",
+                            "name": "10% Off or more",
+                            "refinement_display_name": "Discount",
+                            "value": "p_n_pct-off-with-tax/2665399031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_pct-off-with-tax%3A2665400031&dc&language=en_IN&qid=1782456710&rnid=2665398031&ref=sr_nr_p_n_pct-off-with-tax_2&ds=v1%3AL5LPkxmEJPgfs2Hm0YpjsKcWLFJxBrrYp00I50rFRa8",
+                            "name": "25% Off or more",
+                            "refinement_display_name": "Discount",
+                            "value": "p_n_pct-off-with-tax/2665400031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_pct-off-with-tax%3A2665402031&dc&language=en_IN&qid=1782456710&rnid=2665398031&ref=sr_nr_p_n_pct-off-with-tax_3&ds=v1%3Aedje1VUpRhF77pwDR48l89S0fFpEQvc3eB8S11qr048",
+                            "name": "35% Off or more",
+                            "refinement_display_name": "Discount",
+                            "value": "p_n_pct-off-with-tax/2665402031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_pct-off-with-tax%3A2665401031&dc&language=en_IN&qid=1782456710&rnid=2665398031&ref=sr_nr_p_n_pct-off-with-tax_4&ds=v1%3ABLwOB81%2F0tbQYnkzsjTAYVgMqqO0UdN6FLFMZXCL630",
+                            "name": "50% Off or more",
+                            "refinement_display_name": "Discount",
+                            "value": "p_n_pct-off-with-tax/2665401031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_pct-off-with-tax%3A27060456031&dc&language=en_IN&qid=1782456710&rnid=2665398031&ref=sr_nr_p_n_pct-off-with-tax_5&ds=v1%3AcFrFVegWTzbL272Y1PO3W3XvGWljNGTjnTofi6y%2F4Q4",
+                            "name": "60% Off or more",
+                            "refinement_display_name": "Discount",
+                            "value": "p_n_pct-off-with-tax/27060456031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_pct-off-with-tax%3A27060457031&dc&language=en_IN&qid=1782456710&rnid=2665398031&ref=sr_nr_p_n_pct-off-with-tax_6&ds=v1%3At3pz8K%2BuvbxLRalwdC8m4apnn4K0ifOXYZws6xmfbiA",
+                            "name": "70% Off or more",
+                            "refinement_display_name": "Discount",
+                            "value": "p_n_pct-off-with-tax/27060457031"
+                        }
+                    ],
+                    "eligible_for_free_delivery": [
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_free_shipping_eligible%3A205563695031&dc&language=en_IN&qid=1782456710&rnid=205563694031&ref=sr_nr_p_n_free_shipping_eligible_1&ds=v1%3AJMI9RZ2%2Fxqa2yMcUnaAKAB9lAlxL%2BJtOzXI%2FOPY02j0",
+                            "name": "Free Shipping",
+                            "refinement_display_name": "Eligible for Free Delivery",
+                            "value": "p_n_free_shipping_eligible/205563695031"
+                        }
+                    ],
+                    "height": [
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-101014803217111%3A85904200031&dc&language=en_IN&qid=1782456710&rnid=85903879031&ref=sr_nr_p_n_g-101014803217111_1&ds=v1%3Agr7ZZkeqcFuQb%2ForOGuMZ%2FFUkee5es%2Fx32c1fsKPM9Q",
+                            "name": "Up to 19 cm",
+                            "refinement_display_name": "Height",
+                            "value": "p_n_g-101014803217111/85904200031"
+                        }
+                    ],
+                    "included_components": [
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1003350729111%3A28713782031&dc&language=en_IN&qid=1782456710&rnid=28713777031&ref=sr_nr_p_n_g-1003350729111_1&ds=v1%3AFpMOxQE5ir5JNWXSo99eU9nbKv0olHkw%2BYIWJTS9WEY",
+                            "name": "Juice Container",
+                            "refinement_display_name": "Included Components",
+                            "value": "p_n_g-1003350729111/28713782031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1003350729111%3A203453892031&dc&language=en_IN&qid=1782456710&rnid=28713777031&ref=sr_nr_p_n_g-1003350729111_2&ds=v1%3ALxYwzPOerHV%2FuHBINIXb49BPM%2FjqA4vtNsQEkLk%2FA5o",
+                            "name": "Charging Cable",
+                            "refinement_display_name": "Included Components",
+                            "value": "p_n_g-1003350729111/203453892031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1003350729111%3A203453893031&dc&language=en_IN&qid=1782456710&rnid=28713777031&ref=sr_nr_p_n_g-1003350729111_3&ds=v1%3ALZbzNvia34f%2FqWeFZH5NV2zY9TXtF%2F1WLEBpc4JNl5c",
+                            "name": "Lid",
+                            "refinement_display_name": "Included Components",
+                            "value": "p_n_g-1003350729111/203453893031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1003350729111%3A203453887031&dc&language=en_IN&qid=1782456710&rnid=28713777031&ref=sr_nr_p_n_g-1003350729111_4&ds=v1%3AW6K8OJ6hCQI3U2sucpNTtzAvjwn9OOLCe0e4sWqUdWo",
+                            "name": "Base",
+                            "refinement_display_name": "Included Components",
+                            "value": "p_n_g-1003350729111/203453887031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1003350729111%3A203453891031&dc&language=en_IN&qid=1782456710&rnid=28713777031&ref=sr_nr_p_n_g-1003350729111_5&ds=v1%3AOnzrP8JQDbw55NyKL0zb8eUqjJIKFe3VGVhpFKcWvG4",
+                            "name": "Blending Stick",
+                            "refinement_display_name": "Included Components",
+                            "value": "p_n_g-1003350729111/203453891031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1003350729111%3A203453894031&dc&language=en_IN&qid=1782456710&rnid=28713777031&ref=sr_nr_p_n_g-1003350729111_6&ds=v1%3AjKD8l4ollgxPOS6UveBIYnKOiCyQzqq8uHOYJ3mVXaY",
+                            "name": "Cup",
+                            "refinement_display_name": "Included Components",
+                            "value": "p_n_g-1003350729111/203453894031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1003350729111%3A203453890031&dc&language=en_IN&qid=1782456710&rnid=28713777031&ref=sr_nr_p_n_g-1003350729111_7&ds=v1%3AwClsfCQ6peCkJv110IEu4VT2lnMoicf%2BPfanRTuX%2F0Q",
+                            "name": "Instruction Manual",
+                            "refinement_display_name": "Included Components",
+                            "value": "p_n_g-1003350729111/203453890031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1003350729111%3A28713783031&dc&language=en_IN&qid=1782456710&rnid=28713777031&ref=sr_nr_p_n_g-1003350729111_8&ds=v1%3Aly76%2BpWmc%2BpL9PrbUme%2FwCPWuB6m0YyFxlc6k3UGN%2Bw",
+                            "name": "Pour Spout",
+                            "refinement_display_name": "Included Components",
+                            "value": "p_n_g-1003350729111/28713783031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1003350729111%3A28713780031&dc&language=en_IN&qid=1782456710&rnid=28713777031&ref=sr_nr_p_n_g-1003350729111_9&ds=v1%3AV%2B7fNc9Xc4yv5cMrCLUmm61wlSrkCwdW%2Bry7D%2FTjGLk",
+                            "name": "Whisk Attachment",
+                            "refinement_display_name": "Included Components",
+                            "value": "p_n_g-1003350729111/28713780031"
+                        }
+                    ],
+                    "item_condition": [
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_condition-type%3A8609960031&dc&language=en_IN&qid=1782456710&rnid=8609959031&ref=sr_nr_p_n_condition-type_1&ds=v1%3A5QFWD4OYIFpQoLQ7n3WXhUvRAE5AaBIQzehQxizYjGw",
+                            "name": "New",
+                            "refinement_display_name": "Item Condition",
+                            "value": "p_n_condition-type/8609960031"
+                        }
+                    ],
+                    "length": [
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-101014802905111%3A85904191031&dc&language=en_IN&qid=1782456710&rnid=85903877031&ref=sr_nr_p_n_g-101014802905111_1&ds=v1%3AaK8szOvryKCmWEDxJgIbnQPJlLNG5si7CruLodI%2FuBM",
+                            "name": "Up to 14 cm",
+                            "refinement_display_name": "Length",
+                            "value": "p_n_g-101014802905111/85904191031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-101014802905111%3A85904193031&dc&language=en_IN&qid=1782456710&rnid=85903877031&ref=sr_nr_p_n_g-101014802905111_2&ds=v1%3AgI%2BBYwt2M6O7PKI%2Fau9AstN61nCGS5ZBDoCcIq3uaxI",
+                            "name": "15 to 24 cm",
+                            "refinement_display_name": "Length",
+                            "value": "p_n_g-101014802905111/85904193031"
+                        }
+                    ],
+                    "made_for_amazon_brands": [
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_is_private_label%3A16184648031&dc&language=en_IN&qid=1782456710&rnid=16184647031&ref=sr_nr_p_n_is_private_label_1&ds=v1%3Aza1v37qUP6Zo9nIqXlv%2FAIl9XkB8GvEqXhDEQpg7Ogg",
+                            "name": "Made for Amazon",
+                            "refinement_display_name": "Made for Amazon Brands",
+                            "value": "p_n_is_private_label/16184648031"
+                        }
+                    ],
+                    "new_arrivals": [
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_date_first_available_absolute%3A1318487031&dc&language=en_IN&qid=1782456710&rnid=1318486031&ref=sr_nr_p_n_date_first_available_absolute_1&ds=v1%3AS0vIuthNvlp%2BB4m7KKicvTpMSiz%2FB3s63z8oszbDDIM",
+                            "name": "Last 30 days",
+                            "refinement_display_name": "New Arrivals",
+                            "value": "p_n_date_first_available_absolute/1318487031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_date_first_available_absolute%3A1318488031&dc&language=en_IN&qid=1782456710&rnid=1318486031&ref=sr_nr_p_n_date_first_available_absolute_2&ds=v1%3Ac%2FfADAY9SdsnQ4id2qwiePDE6h5bazNNy9ix%2BPBnhOE",
+                            "name": "Last 90 days",
+                            "refinement_display_name": "New Arrivals",
+                            "value": "p_n_date_first_available_absolute/1318488031"
+                        }
+                    ],
+                    "number_of_speeds": [
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-101016937446111%3A211000686031&dc&language=en_IN&qid=1782456710&rnid=211000684031&ref=sr_nr_p_n_g-101016937446111_1&ds=v1%3A%2ByLYyHJXEPWOSpQjVgYSEUVgjVSXi3jPtvCTmdoVRiA",
+                            "name": "1",
+                            "refinement_display_name": "Number of Speeds",
+                            "value": "p_n_g-101016937446111/211000686031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-101016937446111%3A211000689031&dc&language=en_IN&qid=1782456710&rnid=211000684031&ref=sr_nr_p_n_g-101016937446111_2&ds=v1%3AH8R67VVnyE9k6w8gpkIR48MVDb4QvR%2FnVTjmMO8cwsg",
+                            "name": "2 to 3",
+                            "refinement_display_name": "Number of Speeds",
+                            "value": "p_n_g-101016937446111/211000689031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-101016937446111%3A211000688031&dc&language=en_IN&qid=1782456710&rnid=211000684031&ref=sr_nr_p_n_g-101016937446111_3&ds=v1%3Aq9bTBuwraDdN8W%2BMn33l1dawYZ2A8mbtUoVW4DHHlbo",
+                            "name": "4 to 5",
+                            "refinement_display_name": "Number of Speeds",
+                            "value": "p_n_g-101016937446111/211000688031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-101016937446111%3A211000687031&dc&language=en_IN&qid=1782456710&rnid=211000684031&ref=sr_nr_p_n_g-101016937446111_4&ds=v1%3AeaSR%2B3aSqB5JeCNyh4ycN3%2Fk6hq802c8uvsfAnwFdFg",
+                            "name": "6 & above",
+                            "refinement_display_name": "Number of Speeds",
+                            "value": "p_n_g-101016937446111/211000687031"
+                        }
+                    ],
+                    "pay_on_delivery": [
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_is_cod_eligible%3A4931671031&dc&language=en_IN&qid=1782456710&rnid=4931670031&ref=sr_nr_p_n_is_cod_eligible_1&ds=v1%3Acsi8Duiw%2FnnkNVizHrDHJy1wTJyoE0jHYTFlGi3ZNKE",
+                            "name": "Eligible for Pay On Delivery",
+                            "refinement_display_name": "Pay On Delivery",
+                            "value": "p_n_is_cod_eligible/4931671031"
+                        }
+                    ],
+                    "power_source": [
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-101016776967111%3A207909181031&dc&language=en_IN&qid=1782456710&rnid=207909180031&ref=sr_nr_p_n_g-101016776967111_1&ds=v1%3AMWbISssEdBwe5ykfee7OVQ%2BLFoT2XGtLLp6pQ5EvVpY",
+                            "name": "Battery Powered",
+                            "refinement_display_name": "Power Source",
+                            "value": "p_n_g-101016776967111/207909181031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-101016776967111%3A207909182031&dc&language=en_IN&qid=1782456710&rnid=207909180031&ref=sr_nr_p_n_g-101016776967111_2&ds=v1%3Ar4Ui11DmNugagfwSeR5IZkaRRcEXja24EtpuB8rheDg",
+                            "name": "Corded Electric",
+                            "refinement_display_name": "Power Source",
+                            "value": "p_n_g-101016776967111/207909182031"
+                        }
+                    ],
+                    "price_185_19_700": [
+                        {
+                            "link": "/s?k=portable+blender&rh=p_36%3A-50000&dc&language=en_IN&qid=1782456710&rnid=3444809031&ref=sr_nr_p_36_1&ds=v1%3APndI2uhhXZKgYVgrzPwg62jnuBhLpEa55c9SyIY4Jew",
+                            "name": "Up to \u20b9500",
+                            "refinement_display_name": "Price\n        \n    \n\n    \n        \n            \n                \n\n\n\n\n\n\n\n\n    \n        \n            \n        \n            \n        \n            \n        \n            \n        \n            \n        \n            \n        \n            \n        \n\n        \n            \n    \u20b9185\n\n\n    \u2013\n\n\n    \u20b919,700+",
+                            "value": "p_36/dynamic-picker-0"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_36%3A50000-90000&dc&language=en_IN&qid=1782456710&rnid=3444809031&ref=sr_nr_p_36_2&ds=v1%3AlH56txjpY2WumnoYOzITa%2F%2BnZnnZusxSPWxCcw88yUg",
+                            "name": "\u20b9500 - \u20b9900",
+                            "refinement_display_name": "Price\n        \n    \n\n    \n        \n            \n                \n\n\n\n\n\n\n\n\n    \n        \n            \n        \n            \n        \n            \n        \n            \n        \n            \n        \n            \n        \n            \n        \n\n        \n            \n    \u20b9185\n\n\n    \u2013\n\n\n    \u20b919,700+",
+                            "value": "p_36/dynamic-picker-1"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_36%3A90000-180000&dc&language=en_IN&qid=1782456710&rnid=3444809031&ref=sr_nr_p_36_3&ds=v1%3A2coo83%2FbLUsvYBe%2B%2FcZHyF8PEKSHp%2BJDYNPKWDzIhDs",
+                            "name": "\u20b9900 - \u20b91,800",
+                            "refinement_display_name": "Price\n        \n    \n\n    \n        \n            \n                \n\n\n\n\n\n\n\n\n    \n        \n            \n        \n            \n        \n            \n        \n            \n        \n            \n        \n            \n        \n            \n        \n\n        \n            \n    \u20b9185\n\n\n    \u2013\n\n\n    \u20b919,700+",
+                            "value": "p_36/dynamic-picker-2"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_36%3A180000-400000&dc&language=en_IN&qid=1782456710&rnid=3444809031&ref=sr_nr_p_36_4&ds=v1%3AwhQ4U6oezTtHzHbdfRN0iyU9nIh65bA6qPTeDlI68uc",
+                            "name": "\u20b91,800 - \u20b94,000",
+                            "refinement_display_name": "Price\n        \n    \n\n    \n        \n            \n                \n\n\n\n\n\n\n\n\n    \n        \n            \n        \n            \n        \n            \n        \n            \n        \n            \n        \n            \n        \n            \n        \n\n        \n            \n    \u20b9185\n\n\n    \u2013\n\n\n    \u20b919,700+",
+                            "value": "p_36/dynamic-picker-3"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_36%3A400000-&dc&language=en_IN&qid=1782456710&rnid=3444809031&ref=sr_nr_p_36_5&ds=v1%3ALQcf6NWQ1v6duncqzZWzz265HItJMk52JbmLsCM9%2F%2Fw",
+                            "name": "Over \u20b94,000",
+                            "refinement_display_name": "Price\n        \n    \n\n    \n        \n            \n                \n\n\n\n\n\n\n\n\n    \n        \n            \n        \n            \n        \n            \n        \n            \n        \n            \n        \n            \n        \n            \n        \n\n        \n            \n    \u20b9185\n\n\n    \u2013\n\n\n    \u20b919,700+",
+                            "value": "p_36/dynamic-picker-4"
+                        }
+                    ],
+                    "seller": [
+                        {
+                            "link": "/s?k=portable+blender&rh=p_6%3AAJQVZUJU1WNFV&dc&language=en_IN&qid=1782456710&rnid=1318474031&ref=sr_nr_p_6_1&ds=v1%3A90byGAcaUgeZs4%2Fm6HLBzb3nIcvpllUBLO8SBHJddWQ",
+                            "name": "Doveberry",
+                            "refinement_display_name": "Seller",
+                            "value": "p_6/AJQVZUJU1WNFV"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_6%3AA3R43PRXRAGDNQ&dc&language=en_IN&qid=1782456710&rnid=1318474031&ref=sr_nr_p_6_2&ds=v1%3AvhCrIeQ95TqsX%2Fbc9dbmYIbu1VTcLUYHgPigFfRBBw8",
+                            "name": "M&M MART",
+                            "refinement_display_name": "Seller",
+                            "value": "p_6/A3R43PRXRAGDNQ"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_6%3AA2HPAXBY527OIA&dc&language=en_IN&qid=1782456710&rnid=1318474031&ref=sr_nr_p_6_3&ds=v1%3AUkMjqkn4i6ceyczlhKG95Lc6bzjnu5OiwlLnNieFCfA",
+                            "name": "BazaarKart \u2611",
+                            "refinement_display_name": "Seller",
+                            "value": "p_6/A2HPAXBY527OIA"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_6%3AA1NHNU5JRPAREM&dc&language=en_IN&qid=1782456710&rnid=1318474031&ref=sr_nr_p_6_4&ds=v1%3AMh5%2BRnpiZIiZLTe7s2H6fuIQeN5QGmfuUNB6CQg84k4",
+                            "name": "KTM Global",
+                            "refinement_display_name": "Seller",
+                            "value": "p_6/A1NHNU5JRPAREM"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_6%3AA2CYM4TIMWB9XR&dc&language=en_IN&qid=1782456710&rnid=1318474031&ref=sr_nr_p_6_5&ds=v1%3AbG5sb9mmj75ZqJW7TJpMPAQv9bHDrZTPFzO7WtR4YCA",
+                            "name": "Abhay Traders [Better Store At Better Price]",
+                            "refinement_display_name": "Seller",
+                            "value": "p_6/A2CYM4TIMWB9XR"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_6%3AA2PAIMNRE7S3TW&dc&language=en_IN&qid=1782456710&rnid=1318474031&ref=sr_nr_p_6_6&ds=v1%3A%2BVHWqCRvz1KXAhZPuD5z%2Bm4eQPB5MiY%2BIyIcNe22bQg",
+                            "name": "Peach Imports",
+                            "refinement_display_name": "Seller",
+                            "value": "p_6/A2PAIMNRE7S3TW"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_6%3AA35H81U87YBMDI&dc&language=en_IN&qid=1782456710&rnid=1318474031&ref=sr_nr_p_6_7&ds=v1%3AAY7Tc0%2FDb1gtdRaYCyFpgn0cns%2B%2FZBMOSOY%2FD4M9pk0",
+                            "name": "MULTINATION",
+                            "refinement_display_name": "Seller",
+                            "value": "p_6/A35H81U87YBMDI"
+                        }
+                    ],
+                    "special_features": [
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1003351322111%3A29247917031&dc&language=en_IN&qid=1782456710&rnid=29247863031&ref=sr_nr_p_n_g-1003351322111_1&ds=v1%3Acpi8QM7Ftf5J29LufyRuokw5sLBVGwYD0Mdj9oLondA",
+                            "name": "Portable",
+                            "refinement_display_name": "Special Features",
+                            "value": "p_n_g-1003351322111/29247917031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1003351322111%3A66052197031&dc&language=en_IN&qid=1782456710&rnid=29247863031&ref=sr_nr_p_n_g-1003351322111_2&ds=v1%3ArzIiFq%2FBaejJmgWO9rtTFK7hCEOJvmyaS1hrplsuVhs",
+                            "name": "USB Rechargeable",
+                            "refinement_display_name": "Special Features",
+                            "value": "p_n_g-1003351322111/66052197031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1003351322111%3A66052198031&dc&language=en_IN&qid=1782456710&rnid=29247863031&ref=sr_nr_p_n_g-1003351322111_3&ds=v1%3AXh5uyCrxAYlZlIaXg5L696rPWQLeuJb7RMgl18qrDMM",
+                            "name": "Lightweight",
+                            "refinement_display_name": "Special Features",
+                            "value": "p_n_g-1003351322111/66052198031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1003351322111%3A75527353031&dc&language=en_IN&qid=1782456710&rnid=29247863031&ref=sr_nr_p_n_g-1003351322111_4&ds=v1%3Az1OBN6VP2Kmxx5DbVcziwMcRIMsv7fcteupSBpeU0ew",
+                            "name": "Adjustable Speed Control",
+                            "refinement_display_name": "Special Features",
+                            "value": "p_n_g-1003351322111/75527353031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1003351322111%3A29247922031&dc&language=en_IN&qid=1782456710&rnid=29247863031&ref=sr_nr_p_n_g-1003351322111_5&ds=v1%3AQSp5LdUEX2qSJZ24Mws25FFa3fKdgH0MZb4j%2FjzRUSI",
+                            "name": "Auto Shut Off",
+                            "refinement_display_name": "Special Features",
+                            "value": "p_n_g-1003351322111/29247922031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1003351322111%3A75527338031&dc&language=en_IN&qid=1782456710&rnid=29247863031&ref=sr_nr_p_n_g-1003351322111_6&ds=v1%3ADdYoxGNv2gPK029YG6MSK7MUX31IGJHvcVfBX0QeCSw",
+                            "name": "Automatic Cleaning",
+                            "refinement_display_name": "Special Features",
+                            "value": "p_n_g-1003351322111/75527338031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1003351322111%3A75527395031&dc&language=en_IN&qid=1782456710&rnid=29247863031&ref=sr_nr_p_n_g-1003351322111_7&ds=v1%3A6GG9kuheD%2B0kyNuxprhK4uRflaiUGxkrZ%2B5ofWlG8Ys",
+                            "name": "Compact",
+                            "refinement_display_name": "Special Features",
+                            "value": "p_n_g-1003351322111/75527395031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1003351322111%3A66052196031&dc&language=en_IN&qid=1782456710&rnid=29247863031&ref=sr_nr_p_n_g-1003351322111_8&ds=v1%3AFIQ%2F3CXloqDkQ%2FHLgAneb7BK%2Figco4HZ5IRRklyuv0w",
+                            "name": "Cordless",
+                            "refinement_display_name": "Special Features",
+                            "value": "p_n_g-1003351322111/66052196031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1003351322111%3A66052199031&dc&language=en_IN&qid=1782456710&rnid=29247863031&ref=sr_nr_p_n_g-1003351322111_9&ds=v1%3AeMwhiJVIjJ5of3GARrPh7muAlIQZCsIUb9JJnS84dC4",
+                            "name": "Detachable Attachment",
+                            "refinement_display_name": "Special Features",
+                            "value": "p_n_g-1003351322111/66052199031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1003351322111%3A75527360031&dc&language=en_IN&qid=1782456710&rnid=29247863031&ref=sr_nr_p_n_g-1003351322111_10&ds=v1%3AgXYSBtxWv1za7RLpvPVpIXL91kACykJjlrWpOGdpMyo",
+                            "name": "Ergonomic Handle",
+                            "refinement_display_name": "Special Features",
+                            "value": "p_n_g-1003351322111/75527360031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1003351322111%3A75527342031&dc&language=en_IN&qid=1782456710&rnid=29247863031&ref=sr_nr_p_n_g-1003351322111_11&ds=v1%3AoB0TItsQDvw0gQR2WuKdzgOUXOCVljOwxrVlbejBer0",
+                            "name": "Heavy Duty",
+                            "refinement_display_name": "Special Features",
+                            "value": "p_n_g-1003351322111/75527342031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1003351322111%3A29247916031&dc&language=en_IN&qid=1782456710&rnid=29247863031&ref=sr_nr_p_n_g-1003351322111_12&ds=v1%3Auu7kmDv7NtlOFc1CrZ%2FZWVnZlRTC3gXSmPFwI0cRwak",
+                            "name": "Multiple Speeds",
+                            "refinement_display_name": "Special Features",
+                            "value": "p_n_g-1003351322111/29247916031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1003351322111%3A29247914031&dc&language=en_IN&qid=1782456710&rnid=29247863031&ref=sr_nr_p_n_g-1003351322111_13&ds=v1%3AJvtC9qfItWOBwz7v6d4kL5aBv6%2Br3Pl6jCpmp2b48hU",
+                            "name": "Programmable",
+                            "refinement_display_name": "Special Features",
+                            "value": "p_n_g-1003351322111/29247914031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1003351322111%3A29247921031&dc&language=en_IN&qid=1782456710&rnid=29247863031&ref=sr_nr_p_n_g-1003351322111_14&ds=v1%3ATr1ZoQqUOy%2BlQSZJbe7CRUg6dEqVltd33cFfHPBj%2BRc",
+                            "name": "Removable Blade",
+                            "refinement_display_name": "Special Features",
+                            "value": "p_n_g-1003351322111/29247921031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1003351322111%3A75527381031&dc&language=en_IN&qid=1782456710&rnid=29247863031&ref=sr_nr_p_n_g-1003351322111_15&ds=v1%3AtX6Zk%2FSP%2BmJ0DY%2F461ue%2FrVvXq%2FYPG%2F4GrLWjgT6MSw",
+                            "name": "Removable Glass Container",
+                            "refinement_display_name": "Special Features",
+                            "value": "p_n_g-1003351322111/75527381031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1003351322111%3A29247915031&dc&language=en_IN&qid=1782456710&rnid=29247863031&ref=sr_nr_p_n_g-1003351322111_16&ds=v1%3ANShO9h9o%2BUYA3AR4Efn0Dj6lbb21UWOqF4wmun1rldc",
+                            "name": "Safety Lock",
+                            "refinement_display_name": "Special Features",
+                            "value": "p_n_g-1003351322111/29247915031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1003351322111%3A29247920031&dc&language=en_IN&qid=1782456710&rnid=29247863031&ref=sr_nr_p_n_g-1003351322111_17&ds=v1%3ArUMuy7ocqefd2hCAiC3UsuDrOqRAAjPfbnv8aDMKjrc",
+                            "name": "Single Serve",
+                            "refinement_display_name": "Special Features",
+                            "value": "p_n_g-1003351322111/29247920031"
+                        }
+                    ],
+                    "top_brands": [
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-101014971069111%3A206270883031&dc&language=en_IN&qid=1782456710&rnid=206270882031&ref=sr_nr_p_n_g-101014971069111_1&ds=v1%3ATkI3j1BRRvduJp51lsjz5cuKxjW%2BQbNMgNxiHcKqCBA",
+                            "name": "Top Brands",
+                            "refinement_display_name": "Top Brands",
+                            "value": "p_n_g-101014971069111/206270883031"
+                        }
+                    ],
+                    "uses": [
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1003352723111%3A28713153031&dc&language=en_IN&qid=1782456710&rnid=28713125031&ref=sr_nr_p_n_g-1003352723111_1&ds=v1%3Au%2Bh1bNez%2BOOrA4MWDxNNd9u4eYf1bA3G%2BAuCck8paZ0",
+                            "name": "Juices",
+                            "refinement_display_name": "Uses",
+                            "value": "p_n_g-1003352723111/28713153031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1003352723111%3A28713157031&dc&language=en_IN&qid=1782456710&rnid=28713125031&ref=sr_nr_p_n_g-1003352723111_2&ds=v1%3AaxB%2Bi3%2BbbW78mEQRqtuAvtsrRZJmTlQPGOdhuiow%2FDY",
+                            "name": "Blending",
+                            "refinement_display_name": "Uses",
+                            "value": "p_n_g-1003352723111/28713157031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1003352723111%3A28713155031&dc&language=en_IN&qid=1782456710&rnid=28713125031&ref=sr_nr_p_n_g-1003352723111_3&ds=v1%3AJkH7rD57aglbXAdFREwSvnfQwnm0phCZU2jatrSix3g",
+                            "name": "Mixing",
+                            "refinement_display_name": "Uses",
+                            "value": "p_n_g-1003352723111/28713155031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1003352723111%3A28713156031&dc&language=en_IN&qid=1782456710&rnid=28713125031&ref=sr_nr_p_n_g-1003352723111_4&ds=v1%3AXZtGT0ZqabLjKtErvHQst4F58NJuIjvz5tpxXhQ%2BzRw",
+                            "name": "Crushing",
+                            "refinement_display_name": "Uses",
+                            "value": "p_n_g-1003352723111/28713156031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1003352723111%3A28713159031&dc&language=en_IN&qid=1782456710&rnid=28713125031&ref=sr_nr_p_n_g-1003352723111_5&ds=v1%3ArrKMBVQWPdsAIfF4lH%2FykYvAsnvJj0FAbv6wttkBKvk",
+                            "name": "Chopping",
+                            "refinement_display_name": "Uses",
+                            "value": "p_n_g-1003352723111/28713159031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1003352723111%3A28713151031&dc&language=en_IN&qid=1782456710&rnid=28713125031&ref=sr_nr_p_n_g-1003352723111_6&ds=v1%3AM5sGxp7cjxWBYcfK4%2BKUKOLdjC5KBptgDvYAnpVQuXg",
+                            "name": "Coffee",
+                            "refinement_display_name": "Uses",
+                            "value": "p_n_g-1003352723111/28713151031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1003352723111%3A28713160031&dc&language=en_IN&qid=1782456710&rnid=28713125031&ref=sr_nr_p_n_g-1003352723111_7&ds=v1%3AmF1KkdyVnms4wMCcfxF2hR7toY83%2BzzqSf6Gq1gEOeI",
+                            "name": "Creams",
+                            "refinement_display_name": "Uses",
+                            "value": "p_n_g-1003352723111/28713160031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1003352723111%3A28713154031&dc&language=en_IN&qid=1782456710&rnid=28713125031&ref=sr_nr_p_n_g-1003352723111_8&ds=v1%3A6E8UfChJm5u3babVZoEc4Bd3sD%2B6v73DdcJ7B4xEIcI",
+                            "name": "Emulsifying",
+                            "refinement_display_name": "Uses",
+                            "value": "p_n_g-1003352723111/28713154031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1003352723111%3A28713162031&dc&language=en_IN&qid=1782456710&rnid=28713125031&ref=sr_nr_p_n_g-1003352723111_9&ds=v1%3AMO%2BywFIH3S%2FTkcdNUm%2Bll%2F6wsi5OYVmrzNx1Za7%2FxtQ",
+                            "name": "Grinding",
+                            "refinement_display_name": "Uses",
+                            "value": "p_n_g-1003352723111/28713162031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1003352723111%3A28713149031&dc&language=en_IN&qid=1782456710&rnid=28713125031&ref=sr_nr_p_n_g-1003352723111_10&ds=v1%3AIFI6bZvxn26Z7d2sCh65%2BknvLqIi95USMY7Dx2LID%2Fs",
+                            "name": "Ice Crush",
+                            "refinement_display_name": "Uses",
+                            "value": "p_n_g-1003352723111/28713149031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1003352723111%3A28713158031&dc&language=en_IN&qid=1782456710&rnid=28713125031&ref=sr_nr_p_n_g-1003352723111_11&ds=v1%3A0qSHoP26Iyz0s1miF96I9hr61uyHmBiYJWsfmIy7IIk",
+                            "name": "Protein",
+                            "refinement_display_name": "Uses",
+                            "value": "p_n_g-1003352723111/28713158031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1003352723111%3A28713163031&dc&language=en_IN&qid=1782456710&rnid=28713125031&ref=sr_nr_p_n_g-1003352723111_12&ds=v1%3ATJ2Uh229Qcby2FrO5izNHvctwR83gdDV4xMge8jzrVs",
+                            "name": "Pureeing",
+                            "refinement_display_name": "Uses",
+                            "value": "p_n_g-1003352723111/28713163031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-1003352723111%3A28713152031&dc&language=en_IN&qid=1782456710&rnid=28713125031&ref=sr_nr_p_n_g-1003352723111_13&ds=v1%3AMYCFgw0eOIal7XZQfhkdDggZiF2k%2BlSg60EcVntQt5I",
+                            "name": "Whisking",
+                            "refinement_display_name": "Uses",
+                            "value": "p_n_g-1003352723111/28713152031"
+                        }
+                    ],
+                    "warranty_type": [
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-101014762804111%3A85295520031&dc&language=en_IN&qid=1782456710&rnid=85295508031&ref=sr_nr_p_n_g-101014762804111_1&ds=v1%3AYO6c4HW%2B03ibt9GPSYLQHjmJw%2BDQlZAmYAUuoytvVSU",
+                            "name": "1 Year Limited Warranty",
+                            "refinement_display_name": "Warranty Type",
+                            "value": "p_n_g-101014762804111/85295520031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-101014762804111%3A85295521031&dc&language=en_IN&qid=1782456710&rnid=85295508031&ref=sr_nr_p_n_g-101014762804111_2&ds=v1%3AKwuUcgvVbetNTLaVJMWRaSKRdiO%2BivWCW%2BtV3vLH%2BqI",
+                            "name": "2 Year Limited Warranty",
+                            "refinement_display_name": "Warranty Type",
+                            "value": "p_n_g-101014762804111/85295521031"
+                        }
+                    ],
+                    "wattage": [
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-101017359321111%3A214668816031&dc&language=en_IN&qid=1782456710&rnid=214668812031&ref=sr_nr_p_n_g-101017359321111_1&ds=v1%3AE0qm9HGV1ZdB5xwnkday5sgtADI%2FhBca4L1bsbW9TVs",
+                            "name": "Up to 149 W",
+                            "refinement_display_name": "Wattage",
+                            "value": "p_n_g-101017359321111/214668816031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-101017359321111%3A214668815031&dc&language=en_IN&qid=1782456710&rnid=214668812031&ref=sr_nr_p_n_g-101017359321111_2&ds=v1%3A9WCfbUlwBOX3t5lMP%2B3tjh4kjexE%2BLOe0sJPTYUO93M",
+                            "name": "150 to 299 W",
+                            "refinement_display_name": "Wattage",
+                            "value": "p_n_g-101017359321111/214668815031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-101017359321111%3A214668813031&dc&language=en_IN&qid=1782456710&rnid=214668812031&ref=sr_nr_p_n_g-101017359321111_3&ds=v1%3Aqd4syMqAAkKxPbvvzzylXx1F3GRFg0wsMuH%2BAF5TFtQ",
+                            "name": "300 to 449 W",
+                            "refinement_display_name": "Wattage",
+                            "value": "p_n_g-101017359321111/214668813031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-101017359321111%3A214668818031&dc&language=en_IN&qid=1782456710&rnid=214668812031&ref=sr_nr_p_n_g-101017359321111_4&ds=v1%3A396yW7UE3JLBOsMxuL1w1GBCzhkgUO%2BZIPpnC4TqJW8",
+                            "name": "450 to 549 W",
+                            "refinement_display_name": "Wattage",
+                            "value": "p_n_g-101017359321111/214668818031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-101017359321111%3A214668814031&dc&language=en_IN&qid=1782456710&rnid=214668812031&ref=sr_nr_p_n_g-101017359321111_5&ds=v1%3Arz0ldA5BMWQr9PnvVAnZdRUcto6Keop1MVnXdWZyB3s",
+                            "name": "550 to 699 W",
+                            "refinement_display_name": "Wattage",
+                            "value": "p_n_g-101017359321111/214668814031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-101017359321111%3A214668817031&dc&language=en_IN&qid=1782456710&rnid=214668812031&ref=sr_nr_p_n_g-101017359321111_6&ds=v1%3AaxycVmdnxGhH%2Fw7gOe7V98q3Tt3qCMvFaw7AJcW4VaI",
+                            "name": "700 W & above",
+                            "refinement_display_name": "Wattage",
+                            "value": "p_n_g-101017359321111/214668817031"
+                        }
+                    ],
+                    "width": [
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-101014806383111%3A85904237031&dc&language=en_IN&qid=1782456710&rnid=85903886031&ref=sr_nr_p_n_g-101014806383111_1&ds=v1%3ABS6YpmSdwVe%2FOlellHteG49SnvCiq%2BMyXHM%2BlazVXRQ",
+                            "name": "Up to 9 cm",
+                            "refinement_display_name": "Width",
+                            "value": "p_n_g-101014806383111/85904237031"
+                        },
+                        {
+                            "link": "/s?k=portable+blender&rh=p_n_g-101014806383111%3A85904233031&dc&language=en_IN&qid=1782456710&rnid=85903886031&ref=sr_nr_p_n_g-101014806383111_2&ds=v1%3AlSyQ8vndF5FTghNjdwCe2NhkXXXCEY3fUsApCc9AK0k",
+                            "name": "10 to 14 cm",
+                            "refinement_display_name": "Width",
+                            "value": "p_n_g-101014806383111/85904233031"
+                        }
+                    ]
+                },
+                "results": {
+                    "amazons_choices": [
+                        {
+                            "asin": "B09J2T124D",
+                            "best_seller": false,
+                            "currency": "INR",
+                            "is_amazons_choice": true,
+                            "is_prime": false,
+                            "is_sponsored": false,
+                            "manufacturer": "",
+                            "pos": 5,
+                            "price": 1599,
+                            "price_strikethrough": 5000,
+                            "price_upper": 1599,
+                            "pricing_count": 1,
+                            "rating": 4.4,
+                            "reviews_count": 31700,
+                            "sales_volume": "9K+ bought in past month",
+                            "shipping_information": "FREE delivery Mon, 29 JunOr fastest delivery Tomorrow 8\u202fam - 12\u202fpm",
+                            "title": "NutriPro Juicer Mixer Grinder - Smoothie Maker - 500 Watts (2 Jars & 1 Blade, Silver) - 2 Year Warranty",
+                            "url": "/NutriPro-Bullet-Juicer-Grinder-Blades/dp/B09J2T124D/ref=sr_1_5?dib=eyJ2IjoiMSJ9.1wbE3JTH1AfAxiYO3DjvBh8gmsOPx1433NmXOsg_fDxF1Y1oFia5CVDHyl-jlAzxyBlQKZcwcEHktv1iDtdsJ5r_ebXPhoeI-18hMdjl4XcDrsbHgck-_AI_ep0Dl-UtEf9PFbf9Vc9rYKL_F0QUUvHpTKo06AaIOCbgEOOSt5w6QEpkc5djoYMjIiI7yumbLyxBo-DDSbcQUQh48yECHOqCUcfW5Y9N527GjmFo3JM.nxjowzsnl6KBWh3H-k--1iOpiB5v9j8vc99_xuEMk7Q&dib_tag=se&keywords=portable+blender&qid=1782456710&sr=8-5",
+                            "url_image": "https://m.media-amazon.com/images/I/71rH4vEE4nL._AC_UY218_.jpg"
+                        }
+                    ],
+                    "organic": [
+                        {
+                            "asin": "B0H1Q6LGH1",
+                            "best_seller": true,
+                            "currency": "INR",
+                            "is_amazons_choice": false,
+                            "is_prime": false,
+                            "is_sponsored": false,
+                            "manufacturer": "",
+                            "pos": 3,
+                            "price": 499,
+                            "price_strikethrough": 1299,
+                            "price_upper": 499,
+                            "pricing_count": 1,
+                            "rating": 4.5,
+                            "reviews_count": 132,
+                            "sales_volume": "2K+ bought in past month",
+                            "shipping_information": "FREE delivery Thu, 2 Jul",
+                            "title": "Portable Blender Electric Juicers Fruit Mixers USB Rechargeable Smoothie Mini Personal Juicer 6 Blades 3Gears With 1500 Mah Rechargeable Battery-Smoothie Food Blender D1",
+                            "url": "/Portable-Electric-Rechargeable-Smoothie-Battery-Smoothie/dp/B0H1Q6LGH1/ref=sr_1_3?dib=eyJ2IjoiMSJ9.1wbE3JTH1AfAxiYO3DjvBh8gmsOPx1433NmXOsg_fDxF1Y1oFia5CVDHyl-jlAzxyBlQKZcwcEHktv1iDtdsJ5r_ebXPhoeI-18hMdjl4XcDrsbHgck-_AI_ep0Dl-UtEf9PFbf9Vc9rYKL_F0QUUvHpTKo06AaIOCbgEOOSt5w6QEpkc5djoYMjIiI7yumbLyxBo-DDSbcQUQh48yECHOqCUcfW5Y9N527GjmFo3JM.nxjowzsnl6KBWh3H-k--1iOpiB5v9j8vc99_xuEMk7Q&dib_tag=se&keywords=portable+blender&qid=1782456710&sr=8-3",
+                            "url_image": "https://m.media-amazon.com/images/I/61RPJH4AHQL._AC_UY218_.jpg"
+                        },
+                        {
+                            "asin": "B0H21YV2JW",
+                            "best_seller": false,
+                            "currency": "INR",
+                            "is_amazons_choice": false,
+                            "is_prime": false,
+                            "is_sponsored": false,
+                            "manufacturer": "",
+                            "pos": 4,
+                            "price": 299,
+                            "price_strikethrough": 999,
+                            "price_upper": 299,
+                            "pricing_count": 1,
+                            "rating": 4,
+                            "reviews_count": 15,
+                            "sales_volume": "300+ bought in past month",
+                            "shipping_information": "FREE delivery Wed, 1 Jul",
+                            "title": "Xapiaxa Portable 450 ml Blender 6-Blade \u2013 USB Rechargeable Personal Smoothie Maker, Juicer Cup, BPA-Free Travel Mixer (Multicolor)",
+                            "url": "/Xapiaxa-Portable-450-Blender-6-Blade/dp/B0H21YV2JW/ref=sr_1_4?dib=eyJ2IjoiMSJ9.1wbE3JTH1AfAxiYO3DjvBh8gmsOPx1433NmXOsg_fDxF1Y1oFia5CVDHyl-jlAzxyBlQKZcwcEHktv1iDtdsJ5r_ebXPhoeI-18hMdjl4XcDrsbHgck-_AI_ep0Dl-UtEf9PFbf9Vc9rYKL_F0QUUvHpTKo06AaIOCbgEOOSt5w6QEpkc5djoYMjIiI7yumbLyxBo-DDSbcQUQh48yECHOqCUcfW5Y9N527GjmFo3JM.nxjowzsnl6KBWh3H-k--1iOpiB5v9j8vc99_xuEMk7Q&dib_tag=se&keywords=portable+blender&qid=1782456710&sr=8-4",
+                            "url_image": "https://m.media-amazon.com/images/I/61ZMLo946IL._AC_UY218_.jpg"
+                        },
+                        {
+                            "asin": "B09J2T124D",
+                            "best_seller": false,
+                            "currency": "INR",
+                            "is_amazons_choice": true,
+                            "is_prime": false,
+                            "is_sponsored": false,
+                            "manufacturer": "",
+                            "pos": 5,
+                            "price": 1599,
+                            "price_strikethrough": 5000,
+                            "price_upper": 1599,
+                            "pricing_count": 1,
+                            "rating": 4.4,
+                            "reviews_count": 31700,
+                            "sales_volume": "9K+ bought in past month",
+                            "shipping_information": "FREE delivery Mon, 29 JunOr fastest delivery Tomorrow 8\u202fam - 12\u202fpm",
+                            "title": "NutriPro Juicer Mixer Grinder - Smoothie Maker - 500 Watts (2 Jars & 1 Blade, Silver) - 2 Year Warranty",
+                            "url": "/NutriPro-Bullet-Juicer-Grinder-Blades/dp/B09J2T124D/ref=sr_1_5?dib=eyJ2IjoiMSJ9.1wbE3JTH1AfAxiYO3DjvBh8gmsOPx1433NmXOsg_fDxF1Y1oFia5CVDHyl-jlAzxyBlQKZcwcEHktv1iDtdsJ5r_ebXPhoeI-18hMdjl4XcDrsbHgck-_AI_ep0Dl-UtEf9PFbf9Vc9rYKL_F0QUUvHpTKo06AaIOCbgEOOSt5w6QEpkc5djoYMjIiI7yumbLyxBo-DDSbcQUQh48yECHOqCUcfW5Y9N527GjmFo3JM.nxjowzsnl6KBWh3H-k--1iOpiB5v9j8vc99_xuEMk7Q&dib_tag=se&keywords=portable+blender&qid=1782456710&sr=8-5",
+                            "url_image": "https://m.media-amazon.com/images/I/71rH4vEE4nL._AC_UY218_.jpg"
+                        },
+                        {
+                            "asin": "B0F9YGHHXG",
+                            "best_seller": true,
+                            "coupon_discount": 5,
+                            "coupon_discount_type": "percentage",
+                            "currency": "INR",
+                            "is_amazons_choice": false,
+                            "is_prime": false,
+                            "is_sponsored": false,
+                            "manufacturer": "",
+                            "pos": 6,
+                            "price": 698,
+                            "price_strikethrough": 1999,
+                            "price_upper": 698,
+                            "pricing_count": 1,
+                            "rating": 3.3,
+                            "reviews_count": 3300,
+                            "sales_volume": "4K+ bought in past month",
+                            "shipping_information": "FREE delivery Mon, 29 JunOr fastest delivery Tomorrow 8\u202fam - 12\u202fpm",
+                            "title": "Qlect Portable Blender Electric Juicers Fruit Mixers USB Rechargeable Smoothie Mini Personal Juicer 6 Blades 3Gears With 1500 Mah Rechargeable Battery-Smoothie Blender",
+                            "url": "/Portable-Electric-Rechargeable-Smoothie-Battery-Smoothie/dp/B0F9YGHHXG/ref=sr_1_6?dib=eyJ2IjoiMSJ9.1wbE3JTH1AfAxiYO3DjvBh8gmsOPx1433NmXOsg_fDxF1Y1oFia5CVDHyl-jlAzxyBlQKZcwcEHktv1iDtdsJ5r_ebXPhoeI-18hMdjl4XcDrsbHgck-_AI_ep0Dl-UtEf9PFbf9Vc9rYKL_F0QUUvHpTKo06AaIOCbgEOOSt5w6QEpkc5djoYMjIiI7yumbLyxBo-DDSbcQUQh48yECHOqCUcfW5Y9N527GjmFo3JM.nxjowzsnl6KBWh3H-k--1iOpiB5v9j8vc99_xuEMk7Q&dib_tag=se&keywords=portable+blender&qid=1782456710&sr=8-6",
+                            "url_image": "https://m.media-amazon.com/images/I/41Sb3p-NPBL._AC_UY218_.jpg"
+                        },
+                        {
+                            "asin": "B0G4DZSXDL",
+                            "best_seller": false,
+                            "currency": "INR",
+                            "is_amazons_choice": false,
+                            "is_prime": false,
+                            "is_sponsored": false,
+                            "manufacturer": "",
+                            "pos": 7,
+                            "price": 799,
+                            "price_strikethrough": 1499,
+                            "price_upper": 799,
+                            "pricing_count": 1,
+                            "rating": 4.3,
+                            "reviews_count": 6600,
+                            "sales_volume": "300+ bought in past month",
+                            "shipping_information": "FREE delivery Tue, 30 Jun",
+                            "title": "Portable JuicerBlender Electric Juicers Fruit Mixers USB Rechargeable Smoothie Mini Blender Personal Juicer 10 Blades 3 Gears With 1300 Mah Rechargeable Battery-Smoothie Juicer (GREEN)",
+                            "url": "/Portable-JuicerBlender-USB-Rechargeable-Battery-Smoothie/dp/B0G4DZSXDL/ref=sr_1_7?dib=eyJ2IjoiMSJ9.1wbE3JTH1AfAxiYO3DjvBh8gmsOPx1433NmXOsg_fDxF1Y1oFia5CVDHyl-jlAzxyBlQKZcwcEHktv1iDtdsJ5r_ebXPhoeI-18hMdjl4XcDrsbHgck-_AI_ep0Dl-UtEf9PFbf9Vc9rYKL_F0QUUvHpTKo06AaIOCbgEOOSt5w6QEpkc5djoYMjIiI7yumbLyxBo-DDSbcQUQh48yECHOqCUcfW5Y9N527GjmFo3JM.nxjowzsnl6KBWh3H-k--1iOpiB5v9j8vc99_xuEMk7Q&dib_tag=se&keywords=portable+blender&qid=1782456710&sr=8-7",
+                            "url_image": "https://m.media-amazon.com/images/I/61pPpa2PifL._AC_UY218_.jpg"
+                        },
+                        {
+                            "asin": "B0CL7KY93F",
+                            "best_seller": false,
+                            "currency": "INR",
+                            "is_amazons_choice": false,
+                            "is_prime": false,
+                            "is_sponsored": false,
+                            "manufacturer": "",
+                            "pos": 8,
+                            "price": 2299,
+                            "price_strikethrough": 3499,
+                            "price_upper": 2299,
+                            "pricing_count": 1,
+                            "rating": 4.2,
+                            "reviews_count": 1400,
+                            "sales_volume": "400+ bought in past month",
+                            "shipping_information": "FREE delivery Mon, 29 JunOr fastest delivery Tomorrow 8\u202fam - 12\u202fpm",
+                            "title": "AGARO Galaxy Portable Blender for Smoothie & Milk Shakes, 450ml, USB Type C Rechargeable, 3000 mAh Battery, Mini Personal Blender for Home, Office, Gym, Travel. 126W, Stainless Steel Blade",
+                            "url": "/AGARO-Portable-Smoothie-Rechargeable-Stainless/dp/B0CL7KY93F/ref=sr_1_8?dib=eyJ2IjoiMSJ9.1wbE3JTH1AfAxiYO3DjvBh8gmsOPx1433NmXOsg_fDxF1Y1oFia5CVDHyl-jlAzxyBlQKZcwcEHktv1iDtdsJ5r_ebXPhoeI-18hMdjl4XcDrsbHgck-_AI_ep0Dl-UtEf9PFbf9Vc9rYKL_F0QUUvHpTKo06AaIOCbgEOOSt5w6QEpkc5djoYMjIiI7yumbLyxBo-DDSbcQUQh48yECHOqCUcfW5Y9N527GjmFo3JM.nxjowzsnl6KBWh3H-k--1iOpiB5v9j8vc99_xuEMk7Q&dib_tag=se&keywords=portable+blender&qid=1782456710&sr=8-8",
+                            "url_image": "https://m.media-amazon.com/images/I/71mEE3V7PSL._AC_UY218_.jpg"
+                        },
+                        {
+                            "asin": "B0D3F873GH",
+                            "best_seller": false,
+                            "currency": "INR",
+                            "is_amazons_choice": false,
+                            "is_prime": false,
+                            "is_sponsored": false,
+                            "manufacturer": "",
+                            "pos": 9,
+                            "price": 2999,
+                            "price_strikethrough": 3999,
+                            "price_upper": 2999,
+                            "pricing_count": 1,
+                            "rating": 4.6,
+                            "reviews_count": 1400,
+                            "sales_volume": "500+ bought in past month",
+                            "shipping_information": "FREE delivery Mon, 29 JunOr fastest delivery Today 6\u202fpm - 10\u202fpm",
+                            "title": "OWNAIR Portable Blender | Smoothie & Juice Maker | 180W Blender Mixer Grinder | 5000mAh Rechargeable Portable Juicer | BPA Free 450ml High Borosilicate Glass Jar | Baby Food & Smoothie Maker",
+                            "url": "/OWNAIR-Portable-Blender-portable-Smoothie/dp/B0D3F873GH/ref=sr_1_9?dib=eyJ2IjoiMSJ9.1wbE3JTH1AfAxiYO3DjvBh8gmsOPx1433NmXOsg_fDxF1Y1oFia5CVDHyl-jlAzxyBlQKZcwcEHktv1iDtdsJ5r_ebXPhoeI-18hMdjl4XcDrsbHgck-_AI_ep0Dl-UtEf9PFbf9Vc9rYKL_F0QUUvHpTKo06AaIOCbgEOOSt5w6QEpkc5djoYMjIiI7yumbLyxBo-DDSbcQUQh48yECHOqCUcfW5Y9N527GjmFo3JM.nxjowzsnl6KBWh3H-k--1iOpiB5v9j8vc99_xuEMk7Q&dib_tag=se&keywords=portable+blender&qid=1782456710&sr=8-9",
+                            "url_image": "https://m.media-amazon.com/images/I/81Mgqx+HZ1L._AC_UY218_.jpg"
+                        },
+                        {
+                            "asin": "B0GVNTG5YW",
+                            "best_seller": false,
+                            "currency": "INR",
+                            "is_amazons_choice": false,
+                            "is_prime": false,
+                            "is_sponsored": false,
+                            "manufacturer": "",
+                            "pos": 10,
+                            "price": 599,
+                            "price_strikethrough": 799,
+                            "price_upper": 599,
+                            "pricing_count": 1,
+                            "rating": 4.2,
+                            "reviews_count": 803,
+                            "sales_volume": "700+ bought in past month",
+                            "shipping_information": "FREE delivery Mon, 29 JunOr fastest delivery Tomorrow 8\u202fam - 12\u202fpm",
+                            "title": "Juicer for Home TEKCOOL Portable Blender Electric Juicers Fruit Mixers USB Rechargeable Smoothie Mini Personal Juicer 6 Blades 3Gears with 1500 Mah Rechargeable Battery-Smoothie Blender.",
+                            "url": "/TEKCOOL-Portable-Electric-Rechargeable-Battery-Smoothie/dp/B0GVNTG5YW/ref=sr_1_10?dib=eyJ2IjoiMSJ9.1wbE3JTH1AfAxiYO3DjvBh8gmsOPx1433NmXOsg_fDxF1Y1oFia5CVDHyl-jlAzxyBlQKZcwcEHktv1iDtdsJ5r_ebXPhoeI-18hMdjl4XcDrsbHgck-_AI_ep0Dl-UtEf9PFbf9Vc9rYKL_F0QUUvHpTKo06AaIOCbgEOOSt5w6QEpkc5djoYMjIiI7yumbLyxBo-DDSbcQUQh48yECHOqCUcfW5Y9N527GjmFo3JM.nxjowzsnl6KBWh3H-k--1iOpiB5v9j8vc99_xuEMk7Q&dib_tag=se&keywords=portable+blender&qid=1782456710&sr=8-10",
+                            "url_image": "https://m.media-amazon.com/images/I/61Bm7yYpBtL._AC_UY218_.jpg"
+                        },
+                        {
+                            "asin": "B0FNR531F9",
+                            "best_seller": false,
+                            "currency": "INR",
+                            "is_amazons_choice": false,
+                            "is_prime": false,
+                            "is_sponsored": false,
+                            "manufacturer": "",
+                            "pos": 13,
+                            "price": 1769,
+                            "price_strikethrough": 2390,
+                            "price_upper": 1769,
+                            "pricing_count": 1,
+                            "rating": 3.5,
+                            "reviews_count": 148,
+                            "sales_volume": "400+ bought in past month",
+                            "shipping_information": "FREE delivery Mon, 29 JunOr fastest delivery Tomorrow 8\u202fam - 12\u202fpm",
+                            "title": "Borosil NutriGrip Blue Portable Blender | 40W Low-Noise DC Motor | 300ml Unbreakable PC Jar | USB Rechargeable | Turbo 6 Blade Action | Smoothies, Shakes, Soft Fruit, Protein Mix | 1 Year Warranty",
+                            "url": "/Borosil-NutriGrip-Low-Noise-Unbreakable-Rechargeable/dp/B0FNR531F9/ref=sr_1_13?dib=eyJ2IjoiMSJ9.1wbE3JTH1AfAxiYO3DjvBh8gmsOPx1433NmXOsg_fDxF1Y1oFia5CVDHyl-jlAzxyBlQKZcwcEHktv1iDtdsJ5r_ebXPhoeI-18hMdjl4XcDrsbHgck-_AI_ep0Dl-UtEf9PFbf9Vc9rYKL_F0QUUvHpTKo06AaIOCbgEOOSt5w6QEpkc5djoYMjIiI7yumbLyxBo-DDSbcQUQh48yECHOqCUcfW5Y9N527GjmFo3JM.nxjowzsnl6KBWh3H-k--1iOpiB5v9j8vc99_xuEMk7Q&dib_tag=se&keywords=portable+blender&qid=1782456710&sr=8-13",
+                            "url_image": "https://m.media-amazon.com/images/I/61USOWF3NmL._AC_UY218_.jpg"
+                        },
+                        {
+                            "asin": "B0B3G5XZN5",
+                            "best_seller": false,
+                            "currency": "INR",
+                            "is_amazons_choice": false,
+                            "is_prime": false,
+                            "is_sponsored": false,
+                            "manufacturer": "",
+                            "pos": 14,
+                            "price": 2999,
+                            "price_strikethrough": 3499,
+                            "price_upper": 2999,
+                            "pricing_count": 1,
+                            "rating": 4.2,
+                            "reviews_count": 5300,
+                            "sales_volume": "500+ bought in past month",
+                            "shipping_information": "FREE delivery Mon, 29 JunOr fastest delivery Tomorrow, 27 Jun",
+                            "title": "InstaCuppa Stainless Steel Portable Blender for Smoothies & Juices,Mixer Juicer that Crushes Ice,Electric Shaker USB Rechargeable Battery with 4000 mAh 230 Watts Motor,500 ML Juice Maker,Black",
+                            "url": "/InstaCuppa-Portable-Smoothie-Crushing-Rechargeable/dp/B0B3G5XZN5/ref=sr_1_14?dib=eyJ2IjoiMSJ9.1wbE3JTH1AfAxiYO3DjvBh8gmsOPx1433NmXOsg_fDxF1Y1oFia5CVDHyl-jlAzxyBlQKZcwcEHktv1iDtdsJ5r_ebXPhoeI-18hMdjl4XcDrsbHgck-_AI_ep0Dl-UtEf9PFbf9Vc9rYKL_F0QUUvHpTKo06AaIOCbgEOOSt5w6QEpkc5djoYMjIiI7yumbLyxBo-DDSbcQUQh48yECHOqCUcfW5Y9N527GjmFo3JM.nxjowzsnl6KBWh3H-k--1iOpiB5v9j8vc99_xuEMk7Q&dib_tag=se&keywords=portable+blender&qid=1782456710&sr=8-14",
+                            "url_image": "https://m.media-amazon.com/images/I/51IO9ijxjKL._AC_UY218_.jpg"
+                        },
+                        {
+                            "asin": "B0GXVC81S8",
+                            "best_seller": false,
+                            "currency": "INR",
+                            "is_amazons_choice": false,
+                            "is_prime": false,
+                            "is_sponsored": false,
+                            "manufacturer": "",
+                            "pos": 15,
+                            "price": 299,
+                            "price_strikethrough": 999,
+                            "price_upper": 299,
+                            "pricing_count": 1,
+                            "rating": 3.2,
+                            "reviews_count": 24,
+                            "sales_volume": "800+ bought in past month",
+                            "shipping_information": "FREE delivery Thu, 2 Jul",
+                            "title": "Toy O'Fun Portable 450ml Juicer Blender, 6-Blade USB Rechargeable Personal Mixer Bottle with Built-In Jar, Smoothie & Protein Shake Maker, Multicolor (J-2)",
+                            "url": "/Toy-OFun-Portable-Rechargeable-Multicolor/dp/B0GXVC81S8/ref=sr_1_15?dib=eyJ2IjoiMSJ9.1wbE3JTH1AfAxiYO3DjvBh8gmsOPx1433NmXOsg_fDxF1Y1oFia5CVDHyl-jlAzxyBlQKZcwcEHktv1iDtdsJ5r_ebXPhoeI-18hMdjl4XcDrsbHgck-_AI_ep0Dl-UtEf9PFbf9Vc9rYKL_F0QUUvHpTKo06AaIOCbgEOOSt5w6QEpkc5djoYMjIiI7yumbLyxBo-DDSbcQUQh48yECHOqCUcfW5Y9N527GjmFo3JM.nxjowzsnl6KBWh3H-k--1iOpiB5v9j8vc99_xuEMk7Q&dib_tag=se&keywords=portable+blender&qid=1782456710&sr=8-15",
+                            "url_image": "https://m.media-amazon.com/images/I/71hMxsKnhaL._AC_UY218_.jpg"
+                        },
+                        {
+                            "asin": "B0H21N6L5L",
+                            "best_seller": false,
+                            "currency": "INR",
+                            "is_amazons_choice": false,
+                            "is_prime": false,
+                            "is_sponsored": false,
+                            "manufacturer": "",
+                            "pos": 16,
+                            "price": 299,
+                            "price_strikethrough": 999,
+                            "price_upper": 299,
+                            "pricing_count": 1,
+                            "rating": 4.1,
+                            "reviews_count": 16,
+                            "sales_volume": "100+ bought in past month",
+                            "shipping_information": "FREE delivery Thu, 2 Jul",
+                            "title": "Toy O'Fun Portable 450ml Blender 6-Blade \u2013 USB Rechargeable Personal Smoothie Maker, Juicer Cup, BPA-Free Travel Mixer (Multicolor)",
+                            "url": "/Toy-OFun-Portable-Blender-6-Blade/dp/B0H21N6L5L/ref=sr_1_16?dib=eyJ2IjoiMSJ9.1wbE3JTH1AfAxiYO3DjvBh8gmsOPx1433NmXOsg_fDxF1Y1oFia5CVDHyl-jlAzxyBlQKZcwcEHktv1iDtdsJ5r_ebXPhoeI-18hMdjl4XcDrsbHgck-_AI_ep0Dl-UtEf9PFbf9Vc9rYKL_F0QUUvHpTKo06AaIOCbgEOOSt5w6QEpkc5djoYMjIiI7yumbLyxBo-DDSbcQUQh48yECHOqCUcfW5Y9N527GjmFo3JM.nxjowzsnl6KBWh3H-k--1iOpiB5v9j8vc99_xuEMk7Q&dib_tag=se&keywords=portable+blender&qid=1782456710&sr=8-16",
+                            "url_image": "https://m.media-amazon.com/images/I/61ZMLo946IL._AC_UY218_.jpg"
+                        },
+                        {
+                            "asin": "B0GZ7ZY5H6",
+                            "best_seller": false,
+                            "coupon_discount": 2,
+                            "coupon_discount_type": "percentage",
+                            "currency": "INR",
+                            "is_amazons_choice": false,
+                            "is_prime": false,
+                            "is_sponsored": false,
+                            "manufacturer": "",
+                            "pos": 17,
+                            "price": 799,
+                            "price_strikethrough": 2999,
+                            "price_upper": 799,
+                            "pricing_count": 1,
+                            "rating": 5,
+                            "reviews_count": 4,
+                            "sales_volume": "100+ bought in past month",
+                            "shipping_information": "FREE delivery Fri, 3 Jul",
+                            "title": "Portable 6-Blade Juicer Blender with built-in Jar, Juicer Mixer Bottle,Fruit Juice Machine,USB Rechargeable Personal Size Grinder for Juices, appliance for Protein&Milk Shakes (Black, 380ml)",
+                            "url": "/6-Blade-Juicer-Blender-Rechargeable-appliance/dp/B0GZ7ZY5H6/ref=sr_1_17?dib=eyJ2IjoiMSJ9.1wbE3JTH1AfAxiYO3DjvBh8gmsOPx1433NmXOsg_fDxF1Y1oFia5CVDHyl-jlAzxyBlQKZcwcEHktv1iDtdsJ5r_ebXPhoeI-18hMdjl4XcDrsbHgck-_AI_ep0Dl-UtEf9PFbf9Vc9rYKL_F0QUUvHpTKo06AaIOCbgEOOSt5w6QEpkc5djoYMjIiI7yumbLyxBo-DDSbcQUQh48yECHOqCUcfW5Y9N527GjmFo3JM.nxjowzsnl6KBWh3H-k--1iOpiB5v9j8vc99_xuEMk7Q&dib_tag=se&keywords=portable+blender&qid=1782456710&sr=8-17",
+                            "url_image": "https://m.media-amazon.com/images/I/81y5A7Vs6ML._AC_UY218_.jpg"
+                        },
+                        {
+                            "asin": "B0FWY6WH7Z",
+                            "best_seller": false,
+                            "currency": "INR",
+                            "is_amazons_choice": false,
+                            "is_prime": false,
+                            "is_sponsored": false,
+                            "manufacturer": "",
+                            "pos": 18,
+                            "price": 5649,
+                            "price_strikethrough": 6541,
+                            "price_upper": 5649,
+                            "pricing_count": 1,
+                            "rating": 4.4,
+                            "reviews_count": 2200,
+                            "sales_volume": "200+ bought in past month",
+                            "shipping_information": "FREE delivery Mon, 29 JunOr fastest delivery Today 6\u202fpm - 10\u202fpm",
+                            "title": "Ninja Blast Portable Cordless Blender (BC151INCR) \u2013 530ml | USB-C Rechargeable | Crushes Ice & Frozen Fruit | BPA Free, Leak-Proof Travel Lid Cranberry Red",
+                            "url": "/Ninja-Portable-Cordless-Blender-BC151INCR/dp/B0FWY6WH7Z/ref=sr_1_18?dib=eyJ2IjoiMSJ9.1wbE3JTH1AfAxiYO3DjvBh8gmsOPx1433NmXOsg_fDxF1Y1oFia5CVDHyl-jlAzxyBlQKZcwcEHktv1iDtdsJ5r_ebXPhoeI-18hMdjl4XcDrsbHgck-_AI_ep0Dl-UtEf9PFbf9Vc9rYKL_F0QUUvHpTKo06AaIOCbgEOOSt5w6QEpkc5djoYMjIiI7yumbLyxBo-DDSbcQUQh48yECHOqCUcfW5Y9N527GjmFo3JM.nxjowzsnl6KBWh3H-k--1iOpiB5v9j8vc99_xuEMk7Q&dib_tag=se&keywords=portable+blender&qid=1782456710&sr=8-18",
+                            "url_image": "https://m.media-amazon.com/images/I/615N6JPIUzL._AC_UY218_.jpg"
+                        },
+                        {
+                            "asin": "B0H1Q848C9",
+                            "best_seller": false,
+                            "currency": "INR",
+                            "is_amazons_choice": false,
+                            "is_prime": false,
+                            "is_sponsored": false,
+                            "manufacturer": "",
+                            "pos": 19,
+                            "price": 438,
+                            "price_strikethrough": 1499,
+                            "price_upper": 438,
+                            "pricing_count": 1,
+                            "rating": 4.2,
+                            "reviews_count": 1500,
+                            "sales_volume": "300+ bought in past month",
+                            "shipping_information": "FREE delivery Thu, 2 Jul",
+                            "title": "6 Blade Juicer Mixer Grinder Mini, Portable Blender for Smoothies & Juices, USB Rechargeable Bottle Juicer Blender, Smoothie Maker, Milkshake Blenders, Portable Juice Maker Bottle",
+                            "url": "/Portable-Smoothies-Rechargeable-Smoothie-Milkshake/dp/B0H1Q848C9/ref=sr_1_19?dib=eyJ2IjoiMSJ9.1wbE3JTH1AfAxiYO3DjvBh8gmsOPx1433NmXOsg_fDxF1Y1oFia5CVDHyl-jlAzxyBlQKZcwcEHktv1iDtdsJ5r_ebXPhoeI-18hMdjl4XcDrsbHgck-_AI_ep0Dl-UtEf9PFbf9Vc9rYKL_F0QUUvHpTKo06AaIOCbgEOOSt5w6QEpkc5djoYMjIiI7yumbLyxBo-DDSbcQUQh48yECHOqCUcfW5Y9N527GjmFo3JM.nxjowzsnl6KBWh3H-k--1iOpiB5v9j8vc99_xuEMk7Q&dib_tag=se&keywords=portable+blender&qid=1782456710&sr=8-19",
+                            "url_image": "https://m.media-amazon.com/images/I/71ormOG7rYL._AC_UY218_.jpg"
+                        },
+                        {
+                            "asin": "B0FCFLX7WD",
+                            "best_seller": false,
+                            "currency": "INR",
+                            "is_amazons_choice": false,
+                            "is_prime": false,
+                            "is_sponsored": false,
+                            "manufacturer": "",
+                            "pos": 20,
+                            "price": 1073.77,
+                            "price_strikethrough": 1995,
+                            "price_upper": 1073.77,
+                            "pricing_count": 1,
+                            "rating": 3.7,
+                            "reviews_count": 545,
+                            "sales_volume": "1K+ bought in past month",
+                            "shipping_information": "FREE delivery Mon, 29 JunOr fastest delivery Tomorrow 8\u202fam - 12\u202fpm",
+                            "title": "Pigeon By Stovekraft Pure | Grinder Juicer Blender Smoothie Maker All-in-1 Machine | 300 Watt | 1 Jars- Multiuse Jar 500ml, 1 Sipper, 1 Cap |1 Blades|1 Year Warranty",
+                            "url": "/Pigeon-Stovekraft-Smoothie-Multiuse-Warranty/dp/B0FCFLX7WD/ref=sr_1_20?dib=eyJ2IjoiMSJ9.1wbE3JTH1AfAxiYO3DjvBh8gmsOPx1433NmXOsg_fDxF1Y1oFia5CVDHyl-jlAzxyBlQKZcwcEHktv1iDtdsJ5r_ebXPhoeI-18hMdjl4XcDrsbHgck-_AI_ep0Dl-UtEf9PFbf9Vc9rYKL_F0QUUvHpTKo06AaIOCbgEOOSt5w6QEpkc5djoYMjIiI7yumbLyxBo-DDSbcQUQh48yECHOqCUcfW5Y9N527GjmFo3JM.nxjowzsnl6KBWh3H-k--1iOpiB5v9j8vc99_xuEMk7Q&dib_tag=se&keywords=portable+blender&qid=1782456710&sr=8-20",
+                            "url_image": "https://m.media-amazon.com/images/I/61jYtzL8zzL._AC_UY218_.jpg"
+                        }
+                    ],
+                    "paid": [
+                        {
+                            "asin": "B0FWY5Y7VF",
+                            "best_seller": false,
+                            "currency": "INR",
+                            "is_amazons_choice": false,
+                            "is_prime": false,
+                            "is_sponsored": true,
+                            "manufacturer": "",
+                            "pos": 1,
+                            "price": 5649,
+                            "price_strikethrough": 6541,
+                            "price_upper": 5649,
+                            "pricing_count": 1,
+                            "rating": 4.4,
+                            "reviews_count": 2200,
+                            "sales_volume": "200+ bought in past month",
+                            "shipping_information": "FREE delivery Mon, 29 JunOr fastest delivery Tomorrow 8\u202fam - 12\u202fpm",
+                            "title": "Ninja Blast Portable Cordless Blender (BC151INNV) \u2013 530ml | USB-C Rechargeable | Crushes Ice & Frozen Fruit | BPA Free, Leak-Proof Travel Lid Denim Blue",
+                            "url": "/sspa/click?ie=UTF8&spc=MTozMTQ1MjgxNzIyMTgwMTg2OjE3ODI0NTY3MTA6c3BfYXRmOjMwMTAxODY5NDA5MjIzMjo6MDo6&url=/Ninja-Portable-Cordless-Blender-BC151INNV/dp/B0FWY5Y7VF/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.1wbE3JTH1AfAxiYO3DjvBh8gmsOPx1433NmXOsg_fDxF1Y1oFia5CVDHyl-jlAzxyBlQKZcwcEHktv1iDtdsJ5r_ebXPhoeI-18hMdjl4XcDrsbHgck-_AI_ep0Dl-UtEf9PFbf9Vc9rYKL_F0QUUvHpTKo06AaIOCbgEOOSt5w6QEpkc5djoYMjIiI7yumbLyxBo-DDSbcQUQh48yECHOqCUcfW5Y9N527GjmFo3JM.nxjowzsnl6KBWh3H-k--1iOpiB5v9j8vc99_xuEMk7Q&dib_tag=se&keywords=portable+blender&qid=1782456710&sr=8-1-spons&aref=IVpblUtpyl&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&aref=IVpblUtpyl&sp_cr=ZAZ",
+                            "url_image": "https://m.media-amazon.com/images/I/61lSyApLsEL._AC_UY218_.jpg"
+                        },
+                        {
+                            "asin": "B0DSF7PWG7",
+                            "best_seller": false,
+                            "currency": "INR",
+                            "is_amazons_choice": false,
+                            "is_prime": false,
+                            "is_sponsored": true,
+                            "manufacturer": "",
+                            "pos": 2,
+                            "price": 2299,
+                            "price_strikethrough": 5999,
+                            "price_upper": 2299,
+                            "pricing_count": 1,
+                            "rating": 3.4,
+                            "reviews_count": 12,
+                            "shipping_information": "FREE delivery Mon, 29 JunOr fastest delivery Tomorrow 8\u202fam - 12\u202fpm",
+                            "title": "Amazon Basics Portable Hand Blender for Smoothies and Juices | USB Rechargeable | 6 Stainless Steel Blades | 600 ml Food Grade Jar | 1 year Warranty | 2x2000 mAh Batteries (Sage Green)",
+                            "url": "/sspa/click?ie=UTF8&spc=MTozMTQ1MjgxNzIyMTgwMTg2OjE3ODI0NTY3MTA6c3BfYXRmOjMwMDkzMjkyNzYxMjQzMjo6MDo6&url=/Portable-Smoothies-Rechargeable-Stainless-Batteries/dp/B0DSF7PWG7/ref=sr_1_2_sspa?dib=eyJ2IjoiMSJ9.1wbE3JTH1AfAxiYO3DjvBh8gmsOPx1433NmXOsg_fDxF1Y1oFia5CVDHyl-jlAzxyBlQKZcwcEHktv1iDtdsJ5r_ebXPhoeI-18hMdjl4XcDrsbHgck-_AI_ep0Dl-UtEf9PFbf9Vc9rYKL_F0QUUvHpTKo06AaIOCbgEOOSt5w6QEpkc5djoYMjIiI7yumbLyxBo-DDSbcQUQh48yECHOqCUcfW5Y9N527GjmFo3JM.nxjowzsnl6KBWh3H-k--1iOpiB5v9j8vc99_xuEMk7Q&dib_tag=se&keywords=portable+blender&qid=1782456710&sr=8-2-spons&aref=K67OfSXzQ5&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&aref=K67OfSXzQ5&sp_cr=ZAZ",
+                            "url_image": "https://m.media-amazon.com/images/I/71Lnn+PJzpL._AC_UY218_.jpg"
+                        },
+                        {
+                            "asin": "B07NQGVNW1",
+                            "best_seller": false,
+                            "currency": "INR",
+                            "is_amazons_choice": false,
+                            "is_prime": false,
+                            "is_sponsored": true,
+                            "manufacturer": "",
+                            "price": 1399,
+                            "price_upper": 1399,
+                            "pricing_count": 1,
+                            "rating": 4.2,
+                            "rel_pos": 1,
+                            "reviews_count": 4924,
+                            "title": "BOSS E111 Portable Hand Blender 180 Watt | Easy to Clean and Store | ISI-Marked, Grey",
+                            "url": "https://aax-eu-zaz.amazon.in/x/c/JDBhyy_OmVc46Qifhw4Zk6oAAAGfArL12AoAAAH2AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDEgICBvF8SB/clv1c_ek-YBPHTEsbWrm7asH6Hz6s9f9mXFtBgfzibEW_y3TxHcvcU1oGNPqR-V9tKAHHh3ZLkqgOkhjc7X9wwgy0orT-bEh-g-Uh1yqREritYvok-6J17CC1ktEpZuWkVpnY34_CZWjVfTg5sYBhOul3ki-aJqtfMFlXgpgT9278aTUIbVU0x9pksguxr59V_zfNL88bYymZJGQbOkTwtd-yB92g9ONWNAEyMLoLpkCEtyDDyozbOLzDlVWriA0qGQpYehv_zwVoBpEs5fPYWb6O67uAK85QJfjhmwj-OsUxFr_7aJ0y5ujR8Hd5dgGYL4g5GEyJGvsTE5GkgbcIrf8Z6KoLSYZt_eFYJLvVtfktQvUgktYu4yhE-vB9lTYu56ztmAT3OQplvT3swd9PgG_tB4xWWZMYRa9B9v7ItBK2q5ruIOlOWJQlUCx8HUedfqny0bxVvBjfrjUBgDYU3VtXxRWUTX1LB2w90rOzTcrN1yUUmEglPfs24Htuc5hKZTWAFHn-zmzFcEFS_lU-4XvJGve3xNSSEcgpHmI8nq0WalZoAnFEa-QXF9Z6JX-UuIz18HUs-hBz_CltW1YfRXEsf6XtRKknc5cazng9kEh9k-w093r0Vs3JxfEw54yvc4BYnMtvoviHvbLEatU2RRLFNjh9npp-GqUs3mfvr3MxP27848XvJEGONdhNBjaH0RA9K-D6CxWIh8PFxcLhJ-dA9hhdoUxsIzyAi0VrgKwU68EhvAuaRXqGO-PaW_YpG1YH40zolslNEZs10F7X9vZIaAsqYft1FSdM46wyGuo4pWPBdNN1kOUOIuw4ow6VSI1xrbAWI7VFsGFaqMSIfyYQIAu5cNromPSsBG8P5wrrX6iz9u-H3lDW8BIbcM9XeJOh0dE9cuZ31XNuXaBXmXWVi8QARv3AXFbLDIdq3cgwOV34onNZmR8mACo1VLFF1HjCApIZaikCYX8YcFO3NPonLNHz9SMVmfOcypelERRnoajVXL3_ZOUKlSkZRov_qU0__ADD49tqxDqF5LESFCUK3RW_zV0TBO_aXZzAmQEDuda8M7EiftMEWsaYtX09OTxgtLpU_gaI58CZ5l17MMjaL2txKJYuK1KFeQkJZNX4ZqLgOtjU32qXGlPZEWpf-A7VWKY-m_WebNSXXcKa5dSneLwstYCXhMuib7CBZC-IV538AZiC1vdpdGffUsCXFH5IOZ0P1tofTbUJDzkqzHZzSXil4wwLNysyOnBlLgSbZftRSZPUb2eUiECAt9pHJM9zQDquT5MdQd37e2eTdjyQ4P1X38357oY7WMbSmJT8vK2jrUMwpYPc9bkM8WEy0cZzW-y-Z_HSVXn687uPvEPar-_bX6TLcD-VLXeCMu_Sgs5ApjNvW3zCqpVUvXvOl0GMfWD_bif3zV_icXz8hPNW8ulHWLDBTKV5Zfad2fK5rdsWHrso9dVf1mY_XodYSueC9Y3mkH_jXHsae9QVO0YaItSNv8UWX9zMOngWTvoyRriqp6M2H-CKK4EfWVt9unHRMSahTtNgJ1w9roDA_79JjBrXTbGuKujjd6CrTimZeoQe-a1diudA974uWXXGAcgPWkZ7WxetTyQt0_zfo3WCDExc09ZWDrEOnRnWw7Ogqvs-dvJQLhuT7Bp3WWIJpYFEp9n9GdGBjX02XrJPpnK0ehvOae92MRg/https://www.amazon.in/gp/aw/d/B07NQGVNW1/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=b7613c7281d917fe1723ccd5bd2cd727&hsa_cr_id=0&qid=1782456710&sr=1-1-1ee1b2e4-01d1-4cd0-b737-4c27ebfc8105&aref=IzQ6ZEtaeT&ref_=sbx__sbtcd2_asin_0_bkgd&pd_rd_w=ScnRA&content-id=amzn1.sym.11c43426-cf54-44c1-9e5b-d25a5fd43212:amzn1.sym.11c43426-cf54-44c1-9e5b-d25a5fd43212&pf_rd_p=11c43426-cf54-44c1-9e5b-d25a5fd43212&pf_rd_r=YY4KHAYTZZMJEE60QV8Y&pd_rd_wg=8nUKv&pd_rd_r=036a5b85-a33e-443c-a77d-f945202ef30a",
+                            "url_image": "https://m.media-amazon.com/images/I/61alq6vcz1L._AC_SR322,134_CB1169409_QL70_.jpg"
+                        },
+                        {
+                            "asin": "B07NST96VP",
+                            "best_seller": false,
+                            "currency": "INR",
+                            "is_amazons_choice": false,
+                            "is_prime": false,
+                            "is_sponsored": true,
+                            "manufacturer": "",
+                            "price": 2299,
+                            "price_upper": 2299,
+                            "pricing_count": 1,
+                            "rating": 4.2,
+                            "rel_pos": 2,
+                            "reviews_count": 748,
+                            "title": "Boss E113 275-Watt Hand Blender with Chutney and Chopper Attachments, Grey",
+                            "url": "https://aax-eu-zaz.amazon.in/x/c/JDBhyy_OmVc46Qifhw4Zk6oAAAGfArL12AoAAAH2AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDEgICBvF8SB/clv1c_ek-YBPHTEsbWrm7asH6Hz6s9f9mXFtBgfzibEW_y3TxHcvcU1oGNPqR-V9tKAHHh3ZLkqgOkhjc7X9wwgy0orT-bEh-g-Uh1yqREritYvok-6J17CC1ktEpZuWkVpnY34_CZWjVfTg5sYBhOul3ki-aJqtfMFlXgpgT9278aTUIbVU0x9pksguxr59V_zfNL88bYymZJGQbOkTwtd-yB92g9ONWNAEyMLoLpkCEtyDDyozbOLzDlVWriA0qGQpYehv_zwVoBpEs5fPYWb6O67uAK85QJfjhmwj-OsUxFr_7aJ0y5ujR8Hd5dgGYL4g5GEyJGvsTE5GkgbcIrf8Z6KoLSYZt_eFYJLvVtfktQvUgktYu4yhE-vB9lTYu56ztmAT3OQplvT3swd9PgG_tB4xWWZMYRa9B9v7ItBK2q5ruIOlOWJQlUCx8HUedfqny0bxVvBjfrjUBgDYU3VtXxRWUTX1LB2w90rOzTcrN1yUUmEglPfs24Htuc5hKZTWAFHn-zmzFcEFS_lU-4XvJGve3xNSSEcgpHmI8nq0WalZoAnFEa-QXF9Z6JX-UuIz18HUs-hBz_CltW1YfRXEsf6XtRKknc5cazng9kEh9k-w093r0Vs3JxfEw54yvc4BYnMtvoviHvbLEatU2RRLFNjh9npp-GqUs3mfvr3MxP27848XvJEGONdhNBjaH0RA9K-D6CxWIh8PFxcLhJ-dA9hhdoUxsIzyAi0VrgKwU68EhvAuaRXqGO-PaW_YpG1YH40zolslNEZs10F7X9vZIaAsqYft1FSdM46wyGuo4pWPBdNN1kOUOIuw4ow6VSI1xrbAWI7VFsGFaqMSIfyYQIAu5cNromPSsBG8P5wrrX6iz9u-H3lDW8BIbcM9XeJOh0dE9cuZ31XNuXaBXmXWVi8QARv3AXFbLDIdq3cgwOV34onNZmR8mACo1VLFF1HjCApIZaikCYX8YcFO3NPonLNHz9SMVmfOcypelERRnoajVXL3_ZOUKlSkZRov_qU0__ADD49tqxDqF5LESFCUK3RW_zV0TBO_aXZzAmQEDuda8M7EiftMEWsaYtX09OTxgtLpU_gaI58CZ5l17MMjaL2txKJYuK1KFeQkJZNX4ZqLgOtjU32qXGlPZEWpf-A7VWKY-m_WebNSXXcKa5dSneLwstYCXhMuib7CBZC-IV538AZiC1vdpdGffUsCXFH5IOZ0P1tofTbUJDzkqzHZzSXil4wwLNysyOnBlLgSbZftRSZPUb2eUiECAt9pHJM9zQDquT5MdQd37e2eTdjyQ4P1X38357oY7WMbSmJT8vK2jrUMwpYPc9bkM8WEy0cZzW-y-Z_HSVXn687uPvEPar-_bX6TLcD-VLXeCMu_Sgs5ApjNvW3zCqpVUvXvOl0GMfWD_bif3zV_icXz8hPNW8ulHWLDBTKV5Zfad2fK5rdsWHrso9dVf1mY_XodYSueC9Y3mkH_jXHsae9QVO0YaItSNv8UWX9zMOngWTvoyRriqp6M2H-CKK4EfWVt9unHRMSahTtNgJ1w9roDA_79JjBrXTbGuKujjd6CrTimZeoQe-a1diudA974uWXXGAcgPWkZ7WxetTyQt0_zfo3WCDExc09ZWDrEOnRnWw7Ogqvs-dvJQLhuT7Bp3WWIJpYFEp9n9GdGBjX02XrJPpnK0ehvOae92MRg/https://www.amazon.in/gp/aw/d/B07NST96VP/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=b7613c7281d917fe1723ccd5bd2cd727&hsa_cr_id=0&qid=1782456710&sr=1-2-1ee1b2e4-01d1-4cd0-b737-4c27ebfc8105&aref=IzQ6ZEtaeT&ref_=sbx__sbtcd2_asin_1_bkgd&pd_rd_w=ScnRA&content-id=amzn1.sym.11c43426-cf54-44c1-9e5b-d25a5fd43212:amzn1.sym.11c43426-cf54-44c1-9e5b-d25a5fd43212&pf_rd_p=11c43426-cf54-44c1-9e5b-d25a5fd43212&pf_rd_r=YY4KHAYTZZMJEE60QV8Y&pd_rd_wg=8nUKv&pd_rd_r=036a5b85-a33e-443c-a77d-f945202ef30a",
+                            "url_image": "https://m.media-amazon.com/images/I/61QCrwGwWbL._AC_SR322,134_CB1169409_QL70_.jpg"
+                        },
+                        {
+                            "asin": "B0CHP2NXXN",
+                            "best_seller": false,
+                            "currency": "INR",
+                            "is_amazons_choice": false,
+                            "is_prime": false,
+                            "is_sponsored": true,
+                            "manufacturer": "",
+                            "price": 2125,
+                            "price_upper": 2125,
+                            "pricing_count": 1,
+                            "rating": 4.3,
+                            "rel_pos": 3,
+                            "reviews_count": 209,
+                            "title": "BOSS Stainless Steel Big Boss Portable Hand Blender | Powerful 275 W Motor | 5 Years Warranty* First In India | Variable Speed Control | Isi-Marked, Wine, 275 Watts",
+                            "url": "https://aax-eu-zaz.amazon.in/x/c/JDBhyy_OmVc46Qifhw4Zk6oAAAGfArL12AoAAAH2AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDEgICBvF8SB/clv1c_ek-YBPHTEsbWrm7asH6Hz6s9f9mXFtBgfzibEW_y3TxHcvcU1oGNPqR-V9tKAHHh3ZLkqgOkhjc7X9wwgy0orT-bEh-g-Uh1yqREritYvok-6J17CC1ktEpZuWkVpnY34_CZWjVfTg5sYBhOul3ki-aJqtfMFlXgpgT9278aTUIbVU0x9pksguxr59V_zfNL88bYymZJGQbOkTwtd-yB92g9ONWNAEyMLoLpkCEtyDDyozbOLzDlVWriA0qGQpYehv_zwVoBpEs5fPYWb6O67uAK85QJfjhmwj-OsUxFr_7aJ0y5ujR8Hd5dgGYL4g5GEyJGvsTE5GkgbcIrf8Z6KoLSYZt_eFYJLvVtfktQvUgktYu4yhE-vB9lTYu56ztmAT3OQplvT3swd9PgG_tB4xWWZMYRa9B9v7ItBK2q5ruIOlOWJQlUCx8HUedfqny0bxVvBjfrjUBgDYU3VtXxRWUTX1LB2w90rOzTcrN1yUUmEglPfs24Htuc5hKZTWAFHn-zmzFcEFS_lU-4XvJGve3xNSSEcgpHmI8nq0WalZoAnFEa-QXF9Z6JX-UuIz18HUs-hBz_CltW1YfRXEsf6XtRKknc5cazng9kEh9k-w093r0Vs3JxfEw54yvc4BYnMtvoviHvbLEatU2RRLFNjh9npp-GqUs3mfvr3MxP27848XvJEGONdhNBjaH0RA9K-D6CxWIh8PFxcLhJ-dA9hhdoUxsIzyAi0VrgKwU68EhvAuaRXqGO-PaW_YpG1YH40zolslNEZs10F7X9vZIaAsqYft1FSdM46wyGuo4pWPBdNN1kOUOIuw4ow6VSI1xrbAWI7VFsGFaqMSIfyYQIAu5cNromPSsBG8P5wrrX6iz9u-H3lDW8BIbcM9XeJOh0dE9cuZ31XNuXaBXmXWVi8QARv3AXFbLDIdq3cgwOV34onNZmR8mACo1VLFF1HjCApIZaikCYX8YcFO3NPonLNHz9SMVmfOcypelERRnoajVXL3_ZOUKlSkZRov_qU0__ADD49tqxDqF5LESFCUK3RW_zV0TBO_aXZzAmQEDuda8M7EiftMEWsaYtX09OTxgtLpU_gaI58CZ5l17MMjaL2txKJYuK1KFeQkJZNX4ZqLgOtjU32qXGlPZEWpf-A7VWKY-m_WebNSXXcKa5dSneLwstYCXhMuib7CBZC-IV538AZiC1vdpdGffUsCXFH5IOZ0P1tofTbUJDzkqzHZzSXil4wwLNysyOnBlLgSbZftRSZPUb2eUiECAt9pHJM9zQDquT5MdQd37e2eTdjyQ4P1X38357oY7WMbSmJT8vK2jrUMwpYPc9bkM8WEy0cZzW-y-Z_HSVXn687uPvEPar-_bX6TLcD-VLXeCMu_Sgs5ApjNvW3zCqpVUvXvOl0GMfWD_bif3zV_icXz8hPNW8ulHWLDBTKV5Zfad2fK5rdsWHrso9dVf1mY_XodYSueC9Y3mkH_jXHsae9QVO0YaItSNv8UWX9zMOngWTvoyRriqp6M2H-CKK4EfWVt9unHRMSahTtNgJ1w9roDA_79JjBrXTbGuKujjd6CrTimZeoQe-a1diudA974uWXXGAcgPWkZ7WxetTyQt0_zfo3WCDExc09ZWDrEOnRnWw7Ogqvs-dvJQLhuT7Bp3WWIJpYFEp9n9GdGBjX02XrJPpnK0ehvOae92MRg/https://www.amazon.in/gp/aw/d/B0CHP2NXXN/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=b7613c7281d917fe1723ccd5bd2cd727&hsa_cr_id=0&qid=1782456710&sr=1-3-1ee1b2e4-01d1-4cd0-b737-4c27ebfc8105&aref=IzQ6ZEtaeT&ref_=sbx__sbtcd2_asin_2_bkgd&pd_rd_w=ScnRA&content-id=amzn1.sym.11c43426-cf54-44c1-9e5b-d25a5fd43212:amzn1.sym.11c43426-cf54-44c1-9e5b-d25a5fd43212&pf_rd_p=11c43426-cf54-44c1-9e5b-d25a5fd43212&pf_rd_r=YY4KHAYTZZMJEE60QV8Y&pd_rd_wg=8nUKv&pd_rd_r=036a5b85-a33e-443c-a77d-f945202ef30a",
+                            "url_image": "https://m.media-amazon.com/images/I/61Pxk+SGBhL._AC_SR322,134_CB1169409_QL70_.jpg"
+                        },
+                        {
+                            "asin": "B0FBK37XLW",
+                            "best_seller": false,
+                            "currency": "INR",
+                            "is_amazons_choice": false,
+                            "is_prime": false,
+                            "is_sponsored": true,
+                            "manufacturer": "",
+                            "price": 1760,
+                            "price_upper": 1760,
+                            "pricing_count": 1,
+                            "rating": 4.3,
+                            "rel_pos": 4,
+                            "reviews_count": 365,
+                            "title": "BOSS E112-S Portable Hand Blender 225 Watt | Chutney Jar | 2 Speed Control | 2 Years Warranty | ISI-Marked, Wine",
+                            "url": "https://aax-eu-zaz.amazon.in/x/c/JDBhyy_OmVc46Qifhw4Zk6oAAAGfArL12AoAAAH2AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDEgICBvF8SB/clv1c_ek-YBPHTEsbWrm7asH6Hz6s9f9mXFtBgfzibEW_y3TxHcvcU1oGNPqR-V9tKAHHh3ZLkqgOkhjc7X9wwgy0orT-bEh-g-Uh1yqREritYvok-6J17CC1ktEpZuWkVpnY34_CZWjVfTg5sYBhOul3ki-aJqtfMFlXgpgT9278aTUIbVU0x9pksguxr59V_zfNL88bYymZJGQbOkTwtd-yB92g9ONWNAEyMLoLpkCEtyDDyozbOLzDlVWriA0qGQpYehv_zwVoBpEs5fPYWb6O67uAK85QJfjhmwj-OsUxFr_7aJ0y5ujR8Hd5dgGYL4g5GEyJGvsTE5GkgbcIrf8Z6KoLSYZt_eFYJLvVtfktQvUgktYu4yhE-vB9lTYu56ztmAT3OQplvT3swd9PgG_tB4xWWZMYRa9B9v7ItBK2q5ruIOlOWJQlUCx8HUedfqny0bxVvBjfrjUBgDYU3VtXxRWUTX1LB2w90rOzTcrN1yUUmEglPfs24Htuc5hKZTWAFHn-zmzFcEFS_lU-4XvJGve3xNSSEcgpHmI8nq0WalZoAnFEa-QXF9Z6JX-UuIz18HUs-hBz_CltW1YfRXEsf6XtRKknc5cazng9kEh9k-w093r0Vs3JxfEw54yvc4BYnMtvoviHvbLEatU2RRLFNjh9npp-GqUs3mfvr3MxP27848XvJEGONdhNBjaH0RA9K-D6CxWIh8PFxcLhJ-dA9hhdoUxsIzyAi0VrgKwU68EhvAuaRXqGO-PaW_YpG1YH40zolslNEZs10F7X9vZIaAsqYft1FSdM46wyGuo4pWPBdNN1kOUOIuw4ow6VSI1xrbAWI7VFsGFaqMSIfyYQIAu5cNromPSsBG8P5wrrX6iz9u-H3lDW8BIbcM9XeJOh0dE9cuZ31XNuXaBXmXWVi8QARv3AXFbLDIdq3cgwOV34onNZmR8mACo1VLFF1HjCApIZaikCYX8YcFO3NPonLNHz9SMVmfOcypelERRnoajVXL3_ZOUKlSkZRov_qU0__ADD49tqxDqF5LESFCUK3RW_zV0TBO_aXZzAmQEDuda8M7EiftMEWsaYtX09OTxgtLpU_gaI58CZ5l17MMjaL2txKJYuK1KFeQkJZNX4ZqLgOtjU32qXGlPZEWpf-A7VWKY-m_WebNSXXcKa5dSneLwstYCXhMuib7CBZC-IV538AZiC1vdpdGffUsCXFH5IOZ0P1tofTbUJDzkqzHZzSXil4wwLNysyOnBlLgSbZftRSZPUb2eUiECAt9pHJM9zQDquT5MdQd37e2eTdjyQ4P1X38357oY7WMbSmJT8vK2jrUMwpYPc9bkM8WEy0cZzW-y-Z_HSVXn687uPvEPar-_bX6TLcD-VLXeCMu_Sgs5ApjNvW3zCqpVUvXvOl0GMfWD_bif3zV_icXz8hPNW8ulHWLDBTKV5Zfad2fK5rdsWHrso9dVf1mY_XodYSueC9Y3mkH_jXHsae9QVO0YaItSNv8UWX9zMOngWTvoyRriqp6M2H-CKK4EfWVt9unHRMSahTtNgJ1w9roDA_79JjBrXTbGuKujjd6CrTimZeoQe-a1diudA974uWXXGAcgPWkZ7WxetTyQt0_zfo3WCDExc09ZWDrEOnRnWw7Ogqvs-dvJQLhuT7Bp3WWIJpYFEp9n9GdGBjX02XrJPpnK0ehvOae92MRg/https://www.amazon.in/gp/aw/d/B0FBK37XLW/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=b7613c7281d917fe1723ccd5bd2cd727&hsa_cr_id=0&qid=1782456710&sr=1-4-1ee1b2e4-01d1-4cd0-b737-4c27ebfc8105&aref=IzQ6ZEtaeT&ref_=sbx__sbtcd2_asin_3_bkgd&pd_rd_w=ScnRA&content-id=amzn1.sym.11c43426-cf54-44c1-9e5b-d25a5fd43212:amzn1.sym.11c43426-cf54-44c1-9e5b-d25a5fd43212&pf_rd_p=11c43426-cf54-44c1-9e5b-d25a5fd43212&pf_rd_r=YY4KHAYTZZMJEE60QV8Y&pd_rd_wg=8nUKv&pd_rd_r=036a5b85-a33e-443c-a77d-f945202ef30a",
+                            "url_image": "https://m.media-amazon.com/images/I/61GjgMYlv2L._AC_SR322,134_CB1169409_QL70_.jpg"
+                        },
+                        {
+                            "asin": "B0D1BW575B",
+                            "best_seller": false,
+                            "currency": "INR",
+                            "is_amazons_choice": false,
+                            "is_prime": false,
+                            "is_sponsored": true,
+                            "manufacturer": "",
+                            "price": 3699,
+                            "price_upper": 3699,
+                            "pricing_count": 1,
+                            "rating": 3.8,
+                            "rel_pos": 5,
+                            "reviews_count": 105,
+                            "title": "BOSS Stellar Hand Blender 1200 Watts with Chopper, Blender Jar, On to go Bottle Cap| Variable Speed & Turbo Speed Function| Anti-Splash Technology| 2 Year Warranty| Black",
+                            "url": "https://aax-eu-zaz.amazon.in/x/c/JDBhyy_OmVc46Qifhw4Zk6oAAAGfArL12AoAAAH2AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDEgICBvF8SB/clv1c_ek-YBPHTEsbWrm7asH6Hz6s9f9mXFtBgfzibEW_y3TxHcvcU1oGNPqR-V9tKAHHh3ZLkqgOkhjc7X9wwgy0orT-bEh-g-Uh1yqREritYvok-6J17CC1ktEpZuWkVpnY34_CZWjVfTg5sYBhOul3ki-aJqtfMFlXgpgT9278aTUIbVU0x9pksguxr59V_zfNL88bYymZJGQbOkTwtd-yB92g9ONWNAEyMLoLpkCEtyDDyozbOLzDlVWriA0qGQpYehv_zwVoBpEs5fPYWb6O67uAK85QJfjhmwj-OsUxFr_7aJ0y5ujR8Hd5dgGYL4g5GEyJGvsTE5GkgbcIrf8Z6KoLSYZt_eFYJLvVtfktQvUgktYu4yhE-vB9lTYu56ztmAT3OQplvT3swd9PgG_tB4xWWZMYRa9B9v7ItBK2q5ruIOlOWJQlUCx8HUedfqny0bxVvBjfrjUBgDYU3VtXxRWUTX1LB2w90rOzTcrN1yUUmEglPfs24Htuc5hKZTWAFHn-zmzFcEFS_lU-4XvJGve3xNSSEcgpHmI8nq0WalZoAnFEa-QXF9Z6JX-UuIz18HUs-hBz_CltW1YfRXEsf6XtRKknc5cazng9kEh9k-w093r0Vs3JxfEw54yvc4BYnMtvoviHvbLEatU2RRLFNjh9npp-GqUs3mfvr3MxP27848XvJEGONdhNBjaH0RA9K-D6CxWIh8PFxcLhJ-dA9hhdoUxsIzyAi0VrgKwU68EhvAuaRXqGO-PaW_YpG1YH40zolslNEZs10F7X9vZIaAsqYft1FSdM46wyGuo4pWPBdNN1kOUOIuw4ow6VSI1xrbAWI7VFsGFaqMSIfyYQIAu5cNromPSsBG8P5wrrX6iz9u-H3lDW8BIbcM9XeJOh0dE9cuZ31XNuXaBXmXWVi8QARv3AXFbLDIdq3cgwOV34onNZmR8mACo1VLFF1HjCApIZaikCYX8YcFO3NPonLNHz9SMVmfOcypelERRnoajVXL3_ZOUKlSkZRov_qU0__ADD49tqxDqF5LESFCUK3RW_zV0TBO_aXZzAmQEDuda8M7EiftMEWsaYtX09OTxgtLpU_gaI58CZ5l17MMjaL2txKJYuK1KFeQkJZNX4ZqLgOtjU32qXGlPZEWpf-A7VWKY-m_WebNSXXcKa5dSneLwstYCXhMuib7CBZC-IV538AZiC1vdpdGffUsCXFH5IOZ0P1tofTbUJDzkqzHZzSXil4wwLNysyOnBlLgSbZftRSZPUb2eUiECAt9pHJM9zQDquT5MdQd37e2eTdjyQ4P1X38357oY7WMbSmJT8vK2jrUMwpYPc9bkM8WEy0cZzW-y-Z_HSVXn687uPvEPar-_bX6TLcD-VLXeCMu_Sgs5ApjNvW3zCqpVUvXvOl0GMfWD_bif3zV_icXz8hPNW8ulHWLDBTKV5Zfad2fK5rdsWHrso9dVf1mY_XodYSueC9Y3mkH_jXHsae9QVO0YaItSNv8UWX9zMOngWTvoyRriqp6M2H-CKK4EfWVt9unHRMSahTtNgJ1w9roDA_79JjBrXTbGuKujjd6CrTimZeoQe-a1diudA974uWXXGAcgPWkZ7WxetTyQt0_zfo3WCDExc09ZWDrEOnRnWw7Ogqvs-dvJQLhuT7Bp3WWIJpYFEp9n9GdGBjX02XrJPpnK0ehvOae92MRg/https://www.amazon.in/gp/aw/d/B0D1BW575B/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=b7613c7281d917fe1723ccd5bd2cd727&hsa_cr_id=0&qid=1782456710&sr=1-5-1ee1b2e4-01d1-4cd0-b737-4c27ebfc8105&aref=IzQ6ZEtaeT&ref_=sbx__sbtcd2_asin_4_bkgd&pd_rd_w=ScnRA&content-id=amzn1.sym.11c43426-cf54-44c1-9e5b-d25a5fd43212:amzn1.sym.11c43426-cf54-44c1-9e5b-d25a5fd43212&pf_rd_p=11c43426-cf54-44c1-9e5b-d25a5fd43212&pf_rd_r=YY4KHAYTZZMJEE60QV8Y&pd_rd_wg=8nUKv&pd_rd_r=036a5b85-a33e-443c-a77d-f945202ef30a",
+                            "url_image": "https://m.media-amazon.com/images/I/71IiX7SH99L._AC_SR322,134_CB1169409_QL70_.jpg"
+                        },
+                        {
+                            "asin": "B0F9YDS9B4",
+                            "best_seller": true,
+                            "currency": "INR",
+                            "is_amazons_choice": false,
+                            "is_prime": false,
+                            "is_sponsored": true,
+                            "manufacturer": "",
+                            "pos": 11,
+                            "price": 798,
+                            "price_strikethrough": 2999,
+                            "price_upper": 798,
+                            "pricing_count": 1,
+                            "rating": 3.3,
+                            "reviews_count": 3300,
+                            "sales_volume": "100+ bought in past month",
+                            "shipping_information": "FREE delivery Mon, 29 JunOr fastest delivery Tomorrow 8\u202fam - 12\u202fpm",
+                            "title": "Qlect Portable Blender Electric Juicers Fruit Mixers USB Rechargeable Smoothie Mini Personal Juicer 16 Blades 3Gears With 1500 Mah Rechargeable Battery-Smoothie Blender",
+                            "url": "/sspa/click?ie=UTF8&spc=MTozMTQ1MjgxNzIyMTgwMTg2OjE3ODI0NTY3MTA6c3BfbXRmOjMwMDYxOTE4Njg3NjMzMjo6MDo6&url=/Portable-Electric-Rechargeable-Smoothie-Battery-Smoothie/dp/B0F9YDS9B4/ref=sr_1_11_sspa?dib=eyJ2IjoiMSJ9.1wbE3JTH1AfAxiYO3DjvBh8gmsOPx1433NmXOsg_fDxF1Y1oFia5CVDHyl-jlAzxyBlQKZcwcEHktv1iDtdsJ5r_ebXPhoeI-18hMdjl4XcDrsbHgck-_AI_ep0Dl-UtEf9PFbf9Vc9rYKL_F0QUUvHpTKo06AaIOCbgEOOSt5w6QEpkc5djoYMjIiI7yumbLyxBo-DDSbcQUQh48yECHOqCUcfW5Y9N527GjmFo3JM.nxjowzsnl6KBWh3H-k--1iOpiB5v9j8vc99_xuEMk7Q&dib_tag=se&keywords=portable+blender&qid=1782456710&sr=8-11-spons&aref=68vrBjiZ3f&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1&aref=68vrBjiZ3f&sp_cr=ZAZ",
+                            "url_image": "https://m.media-amazon.com/images/I/71bWTsNds0L._AC_UY218_.jpg"
+                        },
+                        {
+                            "asin": "B0CL7KY93F",
+                            "best_seller": false,
+                            "currency": "INR",
+                            "is_amazons_choice": false,
+                            "is_prime": false,
+                            "is_sponsored": true,
+                            "manufacturer": "",
+                            "pos": 12,
+                            "price": 2299,
+                            "price_strikethrough": 3499,
+                            "price_upper": 2299,
+                            "pricing_count": 1,
+                            "rating": 4.2,
+                            "reviews_count": 1400,
+                            "sales_volume": "400+ bought in past month",
+                            "shipping_information": "FREE delivery Mon, 29 JunOr fastest delivery Tomorrow 8\u202fam - 12\u202fpm",
+                            "title": "AGARO Galaxy Portable Blender for Smoothie & Milk Shakes, 450ml, USB Type C Rechargeable, 3000 mAh Battery, Mini Personal Blender for Home, Office, Gym, Travel. 126W, Stainless Steel Blade",
+                            "url": "/sspa/click?ie=UTF8&spc=MTozMTQ1MjgxNzIyMTgwMTg2OjE3ODI0NTY3MTA6c3BfbXRmOjMwMDExMzA0ODAzNjQzMjo6MDo6&url=/AGARO-Portable-Smoothie-Rechargeable-Stainless/dp/B0CL7KY93F/ref=sr_1_12_sspa?dib=eyJ2IjoiMSJ9.1wbE3JTH1AfAxiYO3DjvBh8gmsOPx1433NmXOsg_fDxF1Y1oFia5CVDHyl-jlAzxyBlQKZcwcEHktv1iDtdsJ5r_ebXPhoeI-18hMdjl4XcDrsbHgck-_AI_ep0Dl-UtEf9PFbf9Vc9rYKL_F0QUUvHpTKo06AaIOCbgEOOSt5w6QEpkc5djoYMjIiI7yumbLyxBo-DDSbcQUQh48yECHOqCUcfW5Y9N527GjmFo3JM.nxjowzsnl6KBWh3H-k--1iOpiB5v9j8vc99_xuEMk7Q&dib_tag=se&keywords=portable+blender&qid=1782456710&sr=8-12-spons&aref=3du6vJqxPA&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1&aref=3du6vJqxPA&sp_cr=ZAZ",
+                            "url_image": "https://m.media-amazon.com/images/I/71mEE3V7PSL._AC_UY218_.jpg"
+                        },
+                        {
+                            "asin": "B0GQZMGWCR",
+                            "best_seller": false,
+                            "currency": "INR",
+                            "is_amazons_choice": false,
+                            "is_prime": false,
+                            "is_sponsored": true,
+                            "manufacturer": "",
+                            "pos": 21,
+                            "price": 1999,
+                            "price_strikethrough": 4000,
+                            "price_upper": 1999,
+                            "pricing_count": 1,
+                            "rating": 3.8,
+                            "reviews_count": 3600,
+                            "sales_volume": "200+ bought in past month",
+                            "shipping_information": "FREE delivery Mon, 29 JunOr fastest delivery Tomorrow 8\u202fam - 12\u202fpm",
+                            "title": "BlendLife NOVA Portable Blender | Smoothie Maker for Gym & Travel | 600ml | 12 Blades | 7.4V | Inbuilt Sipper, Handle & Filter | Convertible Lid | USB Rechargeable | BIS Certified | Made in Bharat",
+                            "url": "/sspa/click?ie=UTF8&spc=MTozMTQ1MjgxNzIyMTgwMTg2OjE3ODI0NTY3MTA6c3BfYnRmOjMwMTE1MDk4NDQ2ODYzMjo6MDo6&url=/BlendLife-NOVA-Convertible-Rechargeable-Certified/dp/B0GQZMGWCR/ref=sr_1_21_sspa?dib=eyJ2IjoiMSJ9.1wbE3JTH1AfAxiYO3DjvBh8gmsOPx1433NmXOsg_fDxF1Y1oFia5CVDHyl-jlAzxyBlQKZcwcEHktv1iDtdsJ5r_ebXPhoeI-18hMdjl4XcDrsbHgck-_AI_ep0Dl-UtEf9PFbf9Vc9rYKL_F0QUUvHpTKo06AaIOCbgEOOSt5w6QEpkc5djoYMjIiI7yumbLyxBo-DDSbcQUQh48yECHOqCUcfW5Y9N527GjmFo3JM.nxjowzsnl6KBWh3H-k--1iOpiB5v9j8vc99_xuEMk7Q&dib_tag=se&keywords=portable+blender&qid=1782456710&sr=8-21-spons&aref=1OulLp7npu&sp_csd=d2lkZ2V0TmFtZT1zcF9idGY&psc=1&aref=1OulLp7npu&sp_cr=ZAZ",
+                            "url_image": "https://m.media-amazon.com/images/I/71RYMuRX2ZL._AC_UY218_.jpg"
+                        },
+                        {
+                            "asin": "B0DSF83G3C",
+                            "best_seller": false,
+                            "currency": "INR",
+                            "is_amazons_choice": false,
+                            "is_prime": false,
+                            "is_sponsored": true,
+                            "manufacturer": "",
+                            "pos": 22,
+                            "price": 1899,
+                            "price_strikethrough": 4499,
+                            "price_upper": 1899,
+                            "pricing_count": 1,
+                            "rating": 3.8,
+                            "reviews_count": 4,
+                            "shipping_information": "FREE delivery Mon, 29 JunOr fastest delivery Tomorrow 8\u202fam - 12\u202fpm",
+                            "title": "Amazon Basics Portable Hand Blender for Smoothies and Juices | USB Rechargeable | 6 Stainless Steel Blades | 500 ml Food Grade Jar | 1 year Warranty | 2x2000 mAh Batteries (Grey)",
+                            "url": "/sspa/click?ie=UTF8&spc=MTozMTQ1MjgxNzIyMTgwMTg2OjE3ODI0NTY3MTA6c3BfYnRmOjMwMDkzMjg2MTYzNTkzMjo6MDo6&url=/Portable-Smoothies-Rechargeable-Stainless-Batteries/dp/B0DSF83G3C/ref=sr_1_22_sspa?dib=eyJ2IjoiMSJ9.1wbE3JTH1AfAxiYO3DjvBh8gmsOPx1433NmXOsg_fDxF1Y1oFia5CVDHyl-jlAzxyBlQKZcwcEHktv1iDtdsJ5r_ebXPhoeI-18hMdjl4XcDrsbHgck-_AI_ep0Dl-UtEf9PFbf9Vc9rYKL_F0QUUvHpTKo06AaIOCbgEOOSt5w6QEpkc5djoYMjIiI7yumbLyxBo-DDSbcQUQh48yECHOqCUcfW5Y9N527GjmFo3JM.nxjowzsnl6KBWh3H-k--1iOpiB5v9j8vc99_xuEMk7Q&dib_tag=se&keywords=portable+blender&qid=1782456710&sr=8-22-spons&aref=a2TgbRLiil&sp_csd=d2lkZ2V0TmFtZT1zcF9idGY&psc=1&aref=a2TgbRLiil&sp_cr=ZAZ",
+                            "url_image": "https://m.media-amazon.com/images/I/71uInncBqDL._AC_UY218_.jpg"
+                        }
+                    ],
+                    "suggested": []
+                },
+                "total_results_count": 9000,
+                "url": "https://www.amazon.in/s?k=portable+blender&page=1&language=en_IN"
+            },
+            "created_at": "2026-06-26 06:51:43",
+            "is_render_forced": false,
+            "job_id": "7476165281786635265",
+            "page": 1,
+            "parser_preset": null,
+            "parser_type": "",
+            "status_code": 200,
+            "type": "parsed",
+            "updated_at": "2026-06-26 06:51:51",
+            "url": "https://www.amazon.in/s?k=portable+blender&page=1&language=en_IN"
+        }
+    ]
+}
