@@ -1,141 +1,109 @@
 # LaunchLens 🚀
 
-LaunchLens is an AI-powered startup research assistant that helps founders evaluate product opportunities by combining demand signals and supply signals.
+LaunchLens is a LangGraph agent that takes a founder's product idea in plain English and returns a research-backed **Go / No-Go** verdict by fusing demand signals (Google Search/Trends/News via SerpApi) with supply signals (Amazon listings via Oxylabs).
 
-## Problem
+## Graph
 
-Founders often make product decisions with incomplete information.
+![LaunchLens flow](LaunchLensFlow.png)
 
-- Demand data exists on search engines and trend platforms.
-- Supply data exists on marketplaces and customer reviews.
-- These sources are rarely analyzed together.
+`__start__ → idea_analysis → {demand_research, supply_research} → opportunity_analysis → verdict → summary → __end__`
 
-LaunchLens aims to bridge that gap.
+Built in `app/graphs/launchlens_graph.py::build_graph()`, and regenerated as this exact PNG by `app/utils/graph_visualizer.py` via `graph.get_graph().draw_mermaid_png()`.
 
-## Overview
+## Concept Map
 
-LaunchLens takes a product idea in plain language and turns it into a research-backed verdict.
+Honest status of the five core LangGraph concepts, mapped to file / function / line:
 
-It helps answer questions like:
+| # | Concept | Where it lives | Status |
+|---|---|---|---|
+| 1 | **Graph + typed state** | `app/graphs/state.py:3` – `LaunchLensState(TypedDict)`. Wired in `app/graphs/launchlens_graph.py:38-40` (`StateGraph(LaunchLensState)`) and `:72-110` (`START` → ... → `END`) | ✅ Done |
+| 2 | **Fan-out (parallel + merge)** | `app/graphs/launchlens_graph.py:77-85` — `idea_analysis` fans out to `demand_research` and `supply_research` in parallel; both merge into `opportunity_analysis` at `:87-95` | ✅ Done |
+| 3 | **Routing (conditional edges)** | — | ⚠️ Not yet. The graph is currently a fixed fan-out/merge pipeline; every query walks the same path. No `add_conditional_edges` call exists yet |
+| 4 | **Agent node + tools** | `app/agents/chat_agent.py::ChatAgent.run()` wraps NVIDIA's `llama-3.1-nemotron-nano` for every LLM call (`idea_analysis.py:17-18`, `verdict.py:31-32`, and inside `opportunity_analysis.py`). Data sources are called directly as plain Python — `OxylabsService` in `demand_research.py:13-16` and `SerpApiService` in `supply_research.py:15-27` — rather than exposed to the LLM as bound tools it chooses to call | ⚠️ Partial — no real agent↔tool loop yet, just orchestrated LLM calls per node |
+| 5 | **Short-term memory** | `app/memory/conversation_memory.py::JsonMemory` — appends turns to `chat_history/conversation.jsonl` (`add_message`, line 17) and returns the last `window * 2` messages (`get_recent`, line 49). Wired into `agent_routes.py:18-20` after each graph run | ⚠️ Partial — persists and windows history, but no LangGraph checkpointer and no summarization node; `summary_node` (`app/graphs/nodes/summary.py:8-10`) just forwards `verdict["report_markdown"]`, it doesn't compress anything |
 
-- Is there enough demand for this idea?
-- How crowded is the market?
-- What are people already buying or searching for?
-- What would make this idea stand out?
+One naming quirk worth knowing if you're debugging: `demand_research_node` actually pulls **Amazon** listings (Oxylabs — a supply-side source), and `supply_research_node` actually pulls **Google Search/News/Trends** (SerpApi — demand-side sources). The node names are swapped relative to what they fetch.
 
-The goal is to help founders move from intuition to evidence before they pitch or build.
+## Node-by-node
 
-## How Research Works
-
-LaunchLens performs research in stages:
-
-1. The user enters a product idea.
-2. The assistant extracts the core product, audience, market, and constraints.
-3. It generates search terms for demand research and competitor research.
-4. It searches relevant sources for similar products, trends, pricing, and customer feedback.
-5. It combines the results into a clear conclusion.
-
-## Sources Referred
-
-LaunchLens uses multiple source types to build a balanced view of the market.
-
-### Demand signals
-- Search engines
-- Trend platforms
-- Blog posts
-- YouTube videos
-- Community discussions
-
-### Supply signals
-- Marketplaces
-- Product listings
-- Customer reviews
-- Pricing pages
-- Competitor websites
-
-This helps the assistant compare what people want with what is already available.
-
-## How the Conclusion Is Made
-
-The final verdict is based on three things:
-
-- Demand strength: whether the idea has clear interest or search activity.
-- Supply intensity: whether the market already has many similar products.
-- Differentiation gap: whether there is still room to stand out.
-
-The assistant then gives a verdict such as:
-
-- Pitchable
-- Needs refinement
-- High competition
-- Weak demand
-
-It also explains why the idea received that verdict.
-
-## Features
-
-- Conversational research assistant
-- FastAPI backend
-- Gradio frontend
-- LLM-powered insights
-- Conversation memory
-- Modular agent architecture
+| Node | File | What it does |
+|---|---|---|
+| `idea_analysis` | `app/graphs/nodes/idea_analysis.py` | LLM call extracts product type, search keywords, and price constraint from the raw query into structured JSON |
+| `demand_research` | `app/graphs/nodes/demand_research.py` | `OxylabsService.amazon_search()` → parses refinements + listings (asin, price, rating, reviews) |
+| `supply_research` | `app/graphs/nodes/supply_research.py` | `SerpApiService` calls for Google Search, Google News, and Google Trends; each response is parsed down to slim JSON |
+| `opportunity_analysis` | `app/graphs/nodes/opportunity_analysis.py` | Pandas-based pass over the Amazon listings (`transformAmazonData`) to compute price bounds and review-weighted volume bias, then an LLM call scores the opportunity |
+| `verdict` | `app/graphs/nodes/verdict.py` | LLM call turns the idea + opportunity scorecard into a final verdict JSON, using scoring rules defined in `VERDICT_PROMPT` |
+| `summary` | `app/graphs/nodes/summary.py` | Passes `verdict["report_markdown"]` through as `final_report` |
 
 ## Tech Stack
 
-- Python
-- FastAPI
-- Gradio
-- NVIDIA API / LLM provider
-- Python dotenv for environment variables
-- Requests / HTTP utilities for external calls
-- Memory module for conversation context
-
+- **Language:** Python
+- **Orchestration:** LangGraph (`StateGraph`)
+- **Backend:** FastAPI (`app/api/main.py`, routes in `app/api/routes/agent_routes.py`)
+- **Frontend:** Gradio (`app/ui/gradio_app.py`)
+- **LLM:** NVIDIA API, `llama-3.1-nemotron-nano-vl-8b-v1` (Gemini path stubbed but commented out in `chat_agent.py`)
+- **Data sources:** SerpApi (Search/News/Trends), Oxylabs (Amazon)
+- **Data wrangling:** pandas (in `opportunity_analysis.py`)
 
 ## Folder Structure
 
-```text
+```
 LaunchLens/
 ├── run.py
 ├── requirements.txt
 ├── README.md
 ├── .env
-├── assets/
-│   └── graph.png
 └── app/
     ├── agents/
+    │   └── chat_agent.py
     ├── api/
+    │   ├── main.py
+    │   └── routes/agent_routes.py
     ├── config/
+    │   └── settings.py
     ├── graphs/
+    │   ├── launchlens_graph.py
+    │   ├── state.py
     │   └── nodes/
+    │       ├── idea_analysis.py
+    │       ├── demand_research.py
+    │       ├── supply_research.py
+    │       ├── opportunity_analysis.py
+    │       ├── verdict.py
+    │       └── summary.py
     ├── memory/
+    │   ├── conversation_memory.py
+    │   └── chat_history/
     ├── prompts/
+    │   ├── idea_prompt.py
+    │   ├── opportunity_prompt.py
+    │   └── verdict_prompt.py
     ├── services/
+    │   ├── oxylabs_service.py
+    │   └── serpapi_service.py
     ├── ui/
-    └── utils
+    │   └── gradio_app.py
+    └── utils/
+        └── graph_visualizer.py
 ```
 
 ## Installation
 
-Create a virtual environment:
-
 ```bash
+git clone https://github.com/rajivprao/LaunchLens.git
+cd LaunchLens
 python -m venv venv
 ```
 
 Activate it:
 
-### Windows
 ```bash
+# Windows
 venv\Scripts\activate
-```
 
-### macOS / Linux
-```bash
+# macOS / Linux
 source venv/bin/activate
 ```
-
-Install dependencies:
 
 ```bash
 pip install -r requirements.txt
@@ -145,34 +113,39 @@ pip install -r requirements.txt
 
 Create a `.env` file in the project root:
 
-```text
+```env
 NVIDIA_API_KEY=<key>
 SERP_API_KEY=<key>
-OXYLABS_API_UN=<un>
-OXYLABS_API_PW=<pw>
+OXYLABS_API_UN=<username>
+OXYLABS_API_PW=<password>
 ```
 
-Add any other keys required by your setup.
+`Secrets` (`app/config/settings.py`) loads these via `python-dotenv`. Note `GEMINI_API_KEY` is read from an env var named `GEMINI_KEY`, not `GEMINI_API_KEY` — that's how it's wired in `settings.py:14`, and it's unused since the Gemini client is commented out in `chat_agent.py`.
 
 ## How to Run
-
-Start the application:
 
 ```bash
 python run.py
 ```
 
-### UI
-The Gradio UI will be available at:
+`run.py` starts FastAPI first, waits 3 seconds, then launches Gradio:
 
-```text
-http://localhost:5001
-```
+- **API (FastAPI):** `http://localhost:8000` — POST to `/chat` with `{"query": "..."}`
+- **UI (Gradio):** `http://localhost:7890`
 
-### API
-The FastAPI documentation will be available at:
+## Demo Prompts
 
-```text
-http://localhost:8000
-```
+Try these against the Gradio UI or the `/chat` endpoint:
 
+1. "I want to launch a stainless-steel insulated water bottle in India under ₹1,500 — is it worth it?"
+2. "Validate a subscription box for artisanal coffee beans, budget ₹800/month."
+3. "Is there room for a new ergonomic laptop stand under ₹2,000?"
+
+Each of these should walk the full graph: idea extraction → parallel Amazon + Google research → opportunity scoring → verdict → final report.
+
+## Roadmap
+
+- [ ] Add a routing node so intent (demand-only / pricing-only / full report) actually changes the path taken
+- [ ] Replace direct service calls with LangChain tool bindings so the agent chooses which source to call
+- [ ] Add a LangGraph checkpointer for durable state across restarts
+- [ ] Add real summarization/compaction once conversations get long, rather than passthrough
