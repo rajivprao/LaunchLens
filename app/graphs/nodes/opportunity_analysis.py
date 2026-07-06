@@ -492,15 +492,4 @@ async def opportunity_analysis_node(
 
     return {"opportunity_analysis":opportunity}
 
-    """return {
-        "opportunity_analysis": {
-            "score": 80,
-            "positioning":
-                "Inventory forecasting for SMB restaurants",
-            "price_band":
-                "$49-$199/month",
-            "risks": [],
-            "opportunities": []
-        }
-    }"""
 
