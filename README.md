@@ -111,9 +111,13 @@ LaunchLens/
     ├── agents/
     ├── api/
     ├── config/
+    ├── graphs/
+    │   └── nodes/
     ├── memory/
     ├── prompts/
-    └── ui/
+    ├── services/
+    ├── ui/
+    └── utils
 ```
 
 ## Installation
@@ -147,7 +151,10 @@ pip install -r requirements.txt
 Create a `.env` file in the project root:
 
 ```text
-NVIDIA_API_KEY=your_api_key
+NVIDIA_API_KEY=<key>
+SERP_API_KEY=<key>
+OXYLABS_API_UN=<un>
+OXYLABS_API_PW=<pw>
 ```
 
 Add any other keys required by your setup.
@@ -164,21 +171,13 @@ python run.py
 The Gradio UI will be available at:
 
 ```text
-http://localhost:7890
+http://localhost:5001
 ```
 
 ### API
 The FastAPI documentation will be available at:
 
 ```text
-http://localhost:8000/docs
+http://localhost:8000
 ```
 
-## Roadmap
-
-- Web search integration
-- Amazon product analysis
-- Pricing intelligence
-- RAG knowledge base
-- Multi-user sessions
-- Deployment
