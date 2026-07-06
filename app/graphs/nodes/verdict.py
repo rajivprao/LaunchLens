@@ -31,10 +31,6 @@ async def verdict_node(state: LaunchLensState):
     llm = ChatAgent()
     response = llm.run(query=user_prompt,system_instruction=system_instruction)
     verdict = json.loads(response)
-  
-    # Open file in append mode ('a')
-    with open('tests/verdict.json', 'w', encoding='utf-8') as file:
-        json.dump(verdict, file, indent=4)
 
     return {"verdict":verdict}
 
