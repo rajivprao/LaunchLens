@@ -91,11 +91,6 @@ It also explains why the idea received that verdict.
 - Requests / HTTP utilities for external calls
 - Memory module for conversation context
 
-## Graph Image
-
-Add your architecture diagram here.
-
-![LaunchLens Architecture](assets/graph.png)
 
 ## Folder Structure
 
