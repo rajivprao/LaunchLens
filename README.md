@@ -131,7 +131,7 @@ python run.py
 `run.py` starts FastAPI first, waits 3 seconds, then launches Gradio:
 
 - **API (FastAPI):** `http://localhost:8000` — POST to `/chat` with `{"query": "..."}`
-- **UI (Gradio):** `http://localhost:7890`
+- **UI (Gradio):** `http://localhost:5001`
 
 ## Demo Prompts
 
