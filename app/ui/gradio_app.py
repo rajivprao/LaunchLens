@@ -1,5 +1,6 @@
 import gradio as gr
 import requests
+import time
 
 custom_css = """
 body, html {
@@ -120,15 +121,25 @@ with gr.Blocks(css=custom_css) as demo:
         
         api_url = "http://localhost:8000/chat"
         payload = {"query": user_message}
+
+        # --- START TIMER ---
+        start_time = time.time()        
         
         try:
-            response = requests.post(api_url, json=payload, timeout=30)
+            response = requests.post(api_url, json=payload, timeout=240)
+
+            # --- END TIMER ---
+            elapsed_time = time.time() - start_time
+
             if response.status_code == 200:
                 bot_reply = response.json().get("answer", "⚠️ Key 'answer' missing from response.")
+                # Append the elapsed time to the reply text
+                bot_reply += f"\n\n*⏱️ Response time: {elapsed_time:.2f}s*"                
             else:
                 bot_reply = f"⚠️ Error: Backend server returned status {response.status_code}"
         except requests.exceptions.RequestException as e:
-            bot_reply = f"⚠️ Failed to reach backend: {e}"
+            elapsed_time = time.time() - start_time
+            bot_reply = f"⚠️ Failed to reach backend: {e}\n\n*⏱️ Failed after {elapsed_time:.2f}s*"
 
         history.append({"role": "assistant", "content": bot_reply})
         return "", history
@@ -136,81 +147,9 @@ with gr.Blocks(css=custom_css) as demo:
     submit_btn.click(call_chat_api, [msg, chatbot], [msg, chatbot])
     msg.submit(call_chat_api, [msg, chatbot], [msg, chatbot])
 
-demo.launch()
+demo.launch(
+    server_name="127.0.0.1",
+    server_port=5001,
+    css=custom_css,
+    share=True)
 
-
-"""
-import gradio as gr
-import requests
-
-
-def ask_agent(message, history):
-
-    try:
-
-        response = requests.post(
-            "http://localhost:8000/chat",
-            json={"query": message}
-        )
-
-        return response.json()["answer"]
-
-    except Exception as e:
-
-        return str(e)
-
-
-demo = gr.ChatInterface(
-    fn=ask_agent,
-    title="🚀 Launch Lens Research Assistant",
-    #type="messages"
-)
-
-demo.launch()
-"""
-
-"""
-import gradio as gr
-
-
-def chat(message, history):
-
-    history = history or []
-
-    history.append(
-        {
-            "role": "user",
-            "content": message
-        }
-    )
-
-    history.append(
-        {
-            "role": "assistant",
-            "content": f"You said: {message}"
-        }
-    )
-
-    return "", history
-
-
-with gr.Blocks(title="Launch Lens") as demo:
-
-    gr.Markdown("# 🚀 Launch Lens Research Assistant")
-
-    chatbot = gr.Chatbot(
-        show_label=False
-    )
-
-    msg = gr.Textbox(
-        placeholder="Ask something..."
-    )
-
-    msg.submit(
-        chat,
-        inputs=[msg, chatbot],
-        outputs=[msg, chatbot]
-    )
-
-demo.launch()
-"""
